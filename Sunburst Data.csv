@@ -1,0 +1,25 @@
+paths,counts
+Air Force,1600
+Navy,1100
+Army,1800
+Navy/Marines,1200
+Air Force-Stationed in US,480
+Navy-Stationed in US,330
+Army-Stationed in US,1350
+Navy/Marines-Stationed in US,540
+Air Force-Stationed in US-Multilingual,96
+Navy-Stationed in US-Multilingual,33
+Army-Stationed in US-Multilingual,283.5
+Navy/Marines-Stationed in US-Multilingual,97.2
+Air Force-Stationed in US-Not Multilingual,384
+Navy-Stationed in US-Not Multilingual,297
+Army-Stationed in US-Not Multilingual,1066.5
+Navy/Marines-Stationed in US-Not Multilingual,442.8
+Air Force-Stationed Overseas-Multilingual,963.2
+Navy-Stationed Overseas-Multilingual,708.4
+Army-Stationed Overseas-Multilingual,409.5
+Navy/Marines-Stationed Overseas-Multilingual,435.6
+Air Force-Stationed Overseas-Not Multilingual,156.8
+Navy-Stationed Overseas-Not Multilingual,61.6
+Army-Stationed Overseas-Not Multilingual,40.5
+Navy/Marines-Stationed Overseas-Not Multilingual,224.4

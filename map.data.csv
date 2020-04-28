@@ -1,0 +1,1394 @@
+ Division ,City,Years of Experience,Income,Longitude,Latitude
+ Army ,Boston,6,$56K - $70K,-71.07260132,42.33660126
+ Air Force ,Boston,3,$40K - $55K,-71.07260132,42.33660126
+ Navy ,Boston,17,$86K or more,-71.07260132,42.33660126
+ Navy/Marines ,Boston,7,$56K - $70K,-71.07260132,42.33660126
+ Army ,Boston,13,$71K - $85K,-71.07260132,42.33660126
+ Air Force ,Boston,16,$86K or more,-71.07260132,42.33660126
+ Navy ,Boston,4,$40K - $55K,-71.07260132,42.33660126
+ Navy/Marines ,Boston,20,$86K or more,-71.07260132,42.33660126
+ Army ,Boston,3,$40K - $55K,-71.07260132,42.33660126
+ Air Force ,Boston,1,$40K - $55K,-71.07260132,42.33660126
+ Navy ,Boston,2,$40K - $55K,-71.07260132,42.33660126
+ Navy/Marines ,Boston,12,$71K - $85K,-71.07260132,42.33660126
+ Army ,Boston,16,$86K or more,-71.07260132,42.33660126
+ Army ,Boston,1,$40K - $55K,-71.07260132,42.33660126
+ Air Force ,Boston,10,$71K - $85K,-71.07260132,42.33660126
+ Navy ,Boston,10,$71K - $85K,-71.07260132,42.33660126
+ Navy/Marines ,Boston,6,$56K - $70K,-71.07260132,42.33660126
+ Army ,Boston,17,$86K or more,-71.07260132,42.33660126
+ Air Force ,Boston,18,$86K or more,-71.07260132,42.33660126
+ Navy ,Boston,2,$40K - $55K,-71.07260132,42.33660126
+ Navy/Marines ,Boston,3,$40K - $55K,-71.07260132,42.33660126
+ Army ,Boston,9,$56K - $70K,-71.07260132,42.33660126
+ Air Force ,Easton,12,$71K - $85K,-75.2276001,40.64149857
+ Navy ,Boston,13,$71K - $85K,-71.07260132,42.33660126
+ Navy/Marines ,Boston,1,$40K - $55K,-71.07260132,42.33660126
+ Army ,Boston,11,$71K - $85K,-71.07260132,42.33660126
+ Army ,Boston,15,$86K or more,-71.1230011,42.36600113
+ Air Force ,Boston,6,$56K - $70K,-71.1230011,42.36600113
+ Navy ,Easton,15,$86K or more,-75.2276001,40.64149857
+ Navy/Marines ,Milan,5,$56K - $70K,-88.78579712,35.92509842
+ Army ,Middletown,17,$86K or more,-72.65309906,41.54970169
+ Air Force ,Grovetown,13,$71K - $85K,-82.22200012,33.46210098
+ Navy ,Hillsboro,2,$40K - $55K,-122.966301,45.44430161
+ Navy/Marines ,Zebulon,9,$56K - $70K,-78.31690216,35.80799866
+ Army ,New Milford,9,$56K - $70K,-74.0177002,40.93299866
+ Air Force ,Downers Grove,19,$86K or more,-88.02110291,41.7580986
+ Navy ,Houston,4,$40K - $55K,-95.38770294,29.61440086
+ Navy/Marines ,Greer,7,$56K - $70K,-82.16719818,34.94049835
+ Army ,,20,$86K or more,-97.5164032,35.46760178
+ Army ,New Orleans,15,$86K or more,-90.08570099,29.97360039
+ Air Force ,Hayward,7,$56K - $70K,-122.0441971,37.6393013
+ Navy ,Shaw A F B,11,$71K - $85K,-80.46099854,33.97529984
+ Navy/Marines ,Los Angeles,6,$56K - $70K,-118.2436981,34.05220032
+ Army ,Miami,15,$86K or more,-80.18260193,25.78059959
+ Air Force ,Riverview,4,$40K - $55K,-82.32649994,27.86610031
+ Navy ,Gaithersburg,14,$71K - $85K,-77.24620056,39.1147995
+ Navy/Marines ,Oak Grove,2,$40K - $55K,-87.45269775,36.6977005
+ Army ,Lindenhurst,14,$71K - $85K,-73.37490082,40.69029999
+ Air Force ,Hampton,4,$40K - $55K,-76.40519714,37.06269836
+ Navy ,Tucson,19,$86K or more,-110.8785019,32.2541008
+ Navy/Marines ,Mechanicsburg,12,$71K - $85K,-76.99690247,40.1814003
+ Army ,Roanoke,8,$56K - $70K,-79.9878006,37.29650116
+ Army ,Las Vegas,14,$71K - $85K,-115.0495987,36.17879868
+ Air Force ,Fenton,18,$86K or more,-83.74669647,42.77050018
+ Navy ,Dodgeville,4,$40K - $55K,-90.13310242,42.99760056
+ Navy/Marines ,Tryon,8,$56K - $70K,-82.04869843,35.24060059
+ Army ,Lake Station,2,$40K - $55K,-87.26809692,41.5727005
+ Air Force ,Orlando,13,$71K - $85K,-81.19760132,28.51059914
+ Navy ,Hampton,4,$40K - $55K,-76.40519714,37.06269836
+ Navy/Marines ,Stillwater,8,$56K - $70K,-97.03119659,36.07509995
+ Army ,Spring Hill,11,$71K - $85K,-82.50050354,28.37750053
+ Air Force ,Miamisburg,7,$56K - $70K,-84.24880219,39.61819839
+ Navy ,Phoenix,8,$56K - $70K,-112.0511017,33.62379837
+ Navy/Marines ,New Windsor,14,$71K - $85K,-74.06890106,41.44680023
+ Army ,Brooklyn,15,$86K or more,-74.01239777,40.61660004
+ Army ,,3,$40K - $55K,-97.8219986,37.75099945
+ Air Force ,Bronx,15,$86K or more,-73.92230225,40.83739853
+ Navy ,Bloomfield Hills,9,$56K - $70K,-83.23619843,42.58720016
+ Navy/Marines ,Miami,3,$40K - $55K,-80.18260193,25.78059959
+ Army ,,19,$86K or more,-97.8219986,37.75099945
+ Air Force ,Fort Wayne,19,$86K or more,-85.11100006,41.15660095
+ Navy ,Mobile,2,$40K - $55K,-88.04299927,30.69440079
+ Navy/Marines ,Red Bank,11,$71K - $85K,-74.07279968,40.36029816
+ Army ,Tulsa,7,$56K - $70K,-96.04509735,36.11000061
+ Air Force ,West Salem,13,$71K - $85K,-82.11560059,40.93859863
+ Navy ,Kalamazoo,11,$71K - $85K,-85.69080353,42.29240036
+ Navy/Marines ,Cleveland,3,$40K - $55K,-81.71019745,41.38610077
+ Army ,Spokane,20,$86K or more,-117.3143005,47.65370178
+ Army ,Sykesville,2,$40K - $55K,-76.96949768,39.39410019
+ Air Force ,Clyde,3,$40K - $55K,-82.94940186,41.30279922
+ Navy ,Oviedo,7,$56K - $70K,-81.19909668,28.6765995
+ Navy/Marines ,Goodyear,17,$86K or more,-112.3873978,33.37760162
+ Army ,Shirley,18,$86K or more,-72.87969971,40.7947998
+ Air Force ,Richmond,16,$86K or more,-84.30310059,37.76660156
+ Navy ,Bensalem,4,$40K - $55K,-74.9414978,40.10300064
+ Navy/Marines ,Clyde,14,$71K - $85K,-82.94940186,41.30279922
+ Army ,Westlake,17,$86K or more,-81.92199707,41.44459915
+ Air Force ,Tucson,15,$86K or more,-110.9264984,32.22169876
+ Navy ,Oswego,7,$56K - $70K,-76.39710236,43.44639969
+ Navy/Marines ,Saint Louis,16,$86K or more,-90.26940155,38.62530136
+ Army ,Kent,18,$86K or more,-81.3259964,41.1352005
+ Army ,Bronx,4,$40K - $55K,-73.87159729,40.87599945
+ Air Force ,Centre,6,$56K - $70K,-85.59269714,34.11869812
+ Navy ,Olpe,10,$71K - $85K,-96.20269775,38.23809814
+ Navy/Marines ,Fayetteville,18,$86K or more,-75.99970245,43.03079987
+ Army ,Denver,19,$86K or more,-105.0203018,39.73699951
+ Air Force ,Minneapolis,15,$86K or more,-93.26540375,44.98429871
+ Navy ,Red Lion,17,$86K or more,-76.55799866,39.89390182
+ Navy/Marines ,Bronx,12,$71K - $85K,-73.81639862,40.83259964
+ Army ,Tipp City,15,$86K or more,-84.17269897,39.94020081
+ Air Force ,Detroit,1,$40K - $55K,-82.93959808,42.41189957
+ Navy ,Durhamville,14,$71K - $85K,-75.67230225,43.16159821
+ Navy/Marines ,Saint Louis,16,$86K or more,-90.24720001,38.65769958
+ Army ,Easton,1,$40K - $55K,-75.27929688,40.69100189
+ Army ,Chicago,12,$71K - $85K,-87.65509796,41.93730164
+ Air Force ,Belleville,3,$40K - $55K,-89.99189758,38.54199982
+ Navy ,Omaha,14,$71K - $85K,-95.94039917,41.25630188
+ Navy/Marines ,Valdosta,1,$40K - $55K,-83.33339691,30.87170029
+ Army ,Hilliard,12,$71K - $85K,-83.18099976,40.02310181
+ Air Force ,Chula Vista,1,$40K - $55K,-117.0531998,32.63610077
+ Navy ,Metairie,19,$86K or more,-90.16829681,29.98380089
+ Navy/Marines ,Jonesboro,16,$86K or more,-84.38069916,33.49760056
+ Army ,Cincinnati,16,$86K or more,-84.4890976,39.26010132
+ Air Force ,Seattle,1,$40K - $55K,-122.4077988,47.65140152
+ Navy ,Easton,9,$56K - $70K,-75.27929688,40.69100189
+ Navy/Marines ,Janesville,14,$71K - $85K,-89.14209747,42.69459915
+ Army ,Scarborough,15,$86K or more,-70.37349701,43.59230042
+ Army ,North Royalton,18,$86K or more,-81.74490356,41.3146019
+ Air Force ,Raritan,10,$71K - $85K,-74.64029694,40.57149887
+ Navy ,Harrisburg,11,$71K - $85K,-76.78890228,40.27619934
+ Navy/Marines ,Tampa,13,$71K - $85K,-82.51560211,27.99869919
+ Army ,Hazard,8,$56K - $70K,-83.05680084,37.30920029
+ Air Force ,Easton,12,$71K - $85K,-75.27929688,40.69100189
+ Navy ,Lawton,4,$40K - $55K,-98.48799896,34.57979965
+ Navy/Marines ,Hamden,17,$86K or more,-72.93959808,41.37450027
+ Army ,San Antonio,14,$71K - $85K,-98.52700043,29.52300072
+ Air Force ,Abingdon,11,$71K - $85K,-90.40519714,40.80139923
+ Navy ,Easton,10,$71K - $85K,-75.27929688,40.69100189
+ Navy/Marines ,Los Angeles,3,$40K - $55K,-118.3103027,34.05989838
+ Army ,Fenton,6,$56K - $70K,-90.45999908,38.49810028
+ Army ,Gadsden,4,$40K - $55K,-85.92890167,34.05289841
+ Air Force ,Shirley,15,$86K or more,-72.87969971,40.7947998
+ Navy ,Neptune,2,$40K - $55K,-74.07099915,40.21820068
+ Navy/Marines ,Gardena,4,$40K - $55K,-118.2993011,33.89369965
+ Army ,Merrimack,17,$86K or more,-71.51550293,42.85020065
+ Air Force ,Hyde Park,19,$86K or more,-71.12930298,42.25329971
+ Navy ,San Diego,12,$71K - $85K,-117.1335983,32.88970184
+ Navy/Marines ,Central Falls,18,$86K or more,-71.39409637,41.88999939
+ Army ,Stockton,11,$71K - $85K,-121.3244019,37.97529984
+ Air Force ,Ashtabula,14,$71K - $85K,-80.79049683,41.85279846
+ Navy ,Raleigh,17,$86K or more,-78.53939819,35.87129974
+ Navy/Marines ,Fontana,1,$40K - $55K,-117.464798,34.08810043
+ Army ,Akron,11,$71K - $85K,-81.49749756,41.10549927
+ Army ,Binghamton,15,$86K or more,-75.94909668,42.1794014
+ Air Force ,Lakewood,15,$86K or more,-81.80239868,41.4817009
+ Navy ,,5,$56K - $70K,-84.38800049,33.74900055
+ Navy/Marines ,Marinette,6,$56K - $70K,-87.71009827,45.09009933
+ Army ,,10,$71K - $85K,-97.8219986,37.75099945
+ Air Force ,Boynton Beach,20,$86K or more,-80.06900024,26.52449989
+ Navy ,Johnstown,5,$56K - $70K,-78.98339844,40.29230118
+ Navy/Marines ,Brooklyn,5,$56K - $70K,-73.97789764,40.64410019
+ Army ,Mattoon,7,$56K - $70K,-88.35959625,39.48849869
+ Air Force ,,5,$56K - $70K,-97.8219986,37.75099945
+ Navy ,Stockton,14,$71K - $85K,-121.3249969,38.00019836
+ Navy/Marines ,Newark,11,$71K - $85K,-74.24520111,40.79180145
+ Army ,Piney Flats,9,$56K - $70K,-82.34950256,36.44049835
+ Army ,Austin,1,$40K - $55K,-97.82250214,30.1678009
+ Air Force ,Huntington Beach,19,$86K or more,-117.9718018,33.66529846
+ Navy ,Pompano Beach,7,$56K - $70K,-80.27010345,26.30310059
+ Navy/Marines ,Albuquerque,15,$86K or more,-106.6275024,34.98929977
+ Army ,Chicago,11,$71K - $85K,-87.65599823,41.81299973
+ Air Force ,Hereford,17,$86K or more,-75.54180145,40.4496994
+ Navy ,Southaven,2,$40K - $55K,-89.96649933,34.94889832
+ Navy/Marines ,Camden,10,$71K - $85K,-80.57710266,34.31769943
+ Army ,Cincinnati,12,$71K - $85K,-84.5196991,39.14659882
+ Air Force ,,8,$56K - $70K,-97.8219986,37.75099945
+ Navy ,Rocky Hill,2,$40K - $55K,-72.66269684,41.65769958
+ Navy/Marines ,,10,$71K - $85K,-90.18479919,32.29880142
+ Army ,Rehoboth Beach,6,$56K - $70K,-75.07330322,38.68859863
+ Army ,Wauseon,7,$56K - $70K,-84.14350128,41.58240128
+ Air Force ,Xian,4,$40K - $55K,108.9285965,34.25830078
+ Navy ,West Palm Beach,10,$71K - $85K,-80.2071991,26.70630074
+ Navy/Marines ,West Babylon,3,$40K - $55K,-73.35009766,40.70660019
+ Army ,Tobyhanna,4,$40K - $55K,-75.38040161,41.18799973
+ Air Force ,Miami,19,$86K or more,-80.18260193,25.78059959
+ Navy ,Philadelphia,17,$86K or more,-75.19680023,39.95970154
+ Navy/Marines ,Kansas City,16,$86K or more,-94.59329987,39.10580063
+ Army ,Trenton,2,$40K - $55K,-83.21820068,42.1330986
+ Air Force ,Flowery Branch,5,$56K - $70K,-83.91200256,34.16749954
+ Navy ,Seneca,16,$86K or more,-82.95320129,34.68569946
+ Navy/Marines ,Lake City,9,$56K - $70K,-80.34030151,42.01819992
+ Army ,Alliance,19,$86K or more,-81.13300323,40.91569901
+ Army ,Bronx,13,$71K - $85K,-73.92230225,40.83739853
+ Air Force ,Pataskala,14,$71K - $85K,-82.67179871,40.00970078
+ Navy ,,18,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Blair,6,$56K - $70K,-96.19439697,41.5379982
+ Army ,New York,3,$40K - $55K,-74.01319885,40.70819855
+ Air Force ,Mesquite,11,$71K - $85K,-96.63379669,32.81949997
+ Air Force ,Tampa,9,$56K - $70K,-82.59049988,28.00639915
+ Air Force ,,5,$56K - $70K,-97.8219986,37.75099945
+ Air Force ,,11,$71K - $85K,-97.8219986,37.75099945
+ Air Force ,Hattiesburg,20,$86K or more,-89.27230072,31.2621994
+ Air Force ,Griffin,19,$86K or more,-84.26589966,33.29059982
+ Air Force ,Phoenix,8,$56K - $70K,-112.0739975,33.44839859
+ Air Force ,Georgetown,6,$56K - $70K,-83.91670227,38.8830986
+ Air Force ,Brooklyn,19,$86K or more,-73.93389893,40.64849854
+ Air Force ,Brooklyn,9,$56K - $70K,-73.92060089,40.67599869
+ Air Force ,Dundalk,5,$56K - $70K,-76.49510193,39.25749969
+ Air Force ,Dallas,7,$56K - $70K,-96.68309784,32.82540131
+ Air Force ,Bessemer,10,$71K - $85K,-86.95909882,33.33349991
+ Air Force ,Charlotte,15,$86K or more,-80.84390259,35.22769928
+ Air Force ,Madison Heights,14,$71K - $85K,-83.10520172,42.50529861
+ Air Force ,Riverside,4,$40K - $55K,-117.4404984,33.89989853
+ Air Force ,Chicago,15,$86K or more,-87.75550079,41.92229843
+ Air Force ,Macon,7,$56K - $70K,-88.59649658,33.08209991
+ Air Force ,Chicago,18,$86K or more,-87.67569733,41.90380096
+ Air Force ,Schaumburg,2,$40K - $55K,-88.10990143,42.06309891
+ Air Force ,Lincoln,8,$56K - $70K,-68.48120117,45.45800018
+ Air Force ,Minneapolis,10,$71K - $85K,-93.24459839,45.05059814
+ Air Force ,,2,$40K - $55K,-97.8219986,37.75099945
+ Air Force ,Lebanon,13,$71K - $85K,-76.42590332,40.292099
+ Air Force ,Linden,10,$71K - $85K,-74.24939728,40.62469864
+ Air Force ,,5,$56K - $70K,-97.8219986,37.75099945
+ Air Force ,Warwick,16,$86K or more,-71.46040344,41.70500183
+ Air Force ,,18,$86K or more,-97.8219986,37.75099945
+ Air Force ,Plattsmouth,18,$86K or more,-95.94000244,40.96820068
+ Air Force ,New York,14,$71K - $85K,-74.00180054,40.74209976
+ Air Force ,Elmwood,16,$86K or more,-89.92259979,40.78150177
+ Air Force ,Saint Paul,20,$86K or more,-93.16699982,44.95550156
+ Air Force ,Wellston,16,$86K or more,-82.54699707,39.11370087
+ Air Force ,Roswell,5,$56K - $70K,-84.36160278,34.02320099
+ Air Force ,Orlando,2,$40K - $55K,-81.3792038,28.53829956
+ Air Force ,Winter Garden,2,$40K - $55K,-81.63189697,28.47680092
+ Air Force ,Miami,18,$86K or more,-80.21440125,25.93880081
+ Air Force ,Ogden,20,$86K or more,-111.979599,41.15439987
+ Air Force ,Alexandria,5,$56K - $70K,-77.08630371,38.82649994
+ Air Force ,Addison,9,$56K - $70K,-88.00900269,41.93099976
+ Air Force ,Ogden,5,$56K - $70K,-112.1315994,41.24710083
+ Air Force ,Lexington,15,$86K or more,-80.19309998,35.73619843
+ Air Force ,Fayetteville,9,$56K - $70K,-78.99680328,35.02460098
+ Air Force ,Madison Heights,2,$40K - $55K,-79.06520081,37.47019958
+ Air Force ,Coppell,20,$86K or more,-97.01499939,32.95460129
+ Air Force ,Sarasota,11,$71K - $85K,-82.52140045,27.31010056
+ Air Force ,Sandy,2,$40K - $55K,-111.8937988,40.57649994
+ Air Force ,Fort Worth,1,$40K - $55K,-97.3585968,32.80049896
+ Air Force ,,9,$56K - $70K,-97.8219986,37.75099945
+ Air Force ,,3,$40K - $55K,-97.8219986,37.75099945
+ Air Force ,Reynoldsburg,20,$86K or more,-82.76930237,39.95479965
+ Air Force ,Marietta,11,$71K - $85K,-84.46130371,33.93059921
+ Air Force ,Altamonte Springs,8,$56K - $70K,-81.36620331,28.66379929
+ Air Force ,,17,$86K or more,-90.66660309,38.57830048
+ Air Force ,Logan,15,$86K or more,-82.41699982,39.52249908
+ Air Force ,Columbus,11,$71K - $85K,-83.01719666,40.02050018
+ Air Force ,Columbia,1,$40K - $55K,-80.86299896,34.11920166
+ Air Force ,Nashua,10,$71K - $85K,-71.46330261,42.73450089
+ Air Force ,Hurricane,9,$56K - $70K,-81.97019958,38.40430069
+ Air Force ,Lancaster,6,$56K - $70K,-82.604599,39.68780136
+ Air Force ,Roanoke,5,$56K - $70K,-80.0625,37.21409988
+ Air Force ,Mohnton,6,$56K - $70K,-75.96600342,40.23910141
+ Air Force ,,20,$86K or more,-97.8219986,37.75099945
+ Air Force ,La Vista,2,$40K - $55K,-96.06130219,41.17649841
+ Air Force ,Akron,18,$86K or more,-81.50849915,41.08649826
+ Air Force ,North Royalton,3,$40K - $55K,-81.74490356,41.3146019
+ Air Force ,Woodstock,12,$71K - $85K,-88.46710205,42.32220078
+ Air Force ,Romeoville,17,$86K or more,-88.10600281,41.63980103
+ Air Force ,Chicago,14,$71K - $85K,-87.7016983,41.92060089
+ Air Force ,Gray,7,$56K - $70K,-83.57099915,33.01610184
+ Air Force ,Kalamazoo,11,$71K - $85K,-85.48419952,42.2405014
+ Air Force ,Mammoth Lakes,9,$56K - $70K,-118.8422012,37.5870018
+ Air Force ,Rice Lake,7,$56K - $70K,-91.69989777,45.52330017
+ Air Force ,Frankfort,18,$86K or more,-86.46880341,40.31869888
+ Air Force ,Osceola Mills,4,$40K - $55K,-78.31289673,40.8594017
+ Air Force ,,12,$71K - $85K,-97.8219986,37.75099945
+ Air Force ,Minneapolis,8,$56K - $70K,-93.21659851,44.97589874
+ Air Force ,Levant,10,$71K - $85K,-68.98770142,44.88949966
+ Air Force ,San Antonio,3,$40K - $55K,-98.53530121,29.47130013
+ Air Force ,,14,$71K - $85K,-96.82170105,32.77870178
+ Air Force ,Brooklyn,18,$86K or more,-73.94629669,40.68090057
+ Air Force ,Las Vegas,14,$71K - $85K,-115.0495987,36.17879868
+ Air Force ,Boulder,3,$40K - $55K,-105.2705994,40.01499939
+ Air Force ,Winchester,15,$86K or more,-86.16149902,35.19110107
+ Air Force ,Louisville,11,$71K - $85K,-85.45259857,38.2582016
+ Air Force ,Duluth,14,$71K - $85K,-92.17299652,46.73600006
+ Air Force ,Chicago,10,$71K - $85K,-87.65000153,41.84999847
+ Air Force ,Denver,3,$40K - $55K,-76.13050079,40.24020004
+ Air Force ,Brookline,7,$56K - $70K,-71.1230011,42.3431015
+ Air Force ,Saint Paul,12,$71K - $85K,-93.15190125,45.01010132
+ Air Force ,Livermore Falls,6,$56K - $70K,-70.14990234,44.42850113
+ Air Force ,Princeton,16,$86K or more,-74.65969849,40.37559891
+ Air Force ,San Antonio,2,$40K - $55K,-98.3993988,29.58340073
+ Air Force ,Marysville,8,$56K - $70K,-121.4726028,39.15869904
+ Air Force ,Greensboro,1,$40K - $55K,-79.8164978,36.10589981
+ Air Force ,Crozet,7,$56K - $70K,-78.7059021,38.12829971
+ Air Force ,Wake Forest,16,$86K or more,-78.55439758,35.97669983
+ Air Force ,South Saint Paul,6,$56K - $70K,-93.04000092,44.88389969
+ Air Force ,Morris,9,$56K - $70K,-95.95439911,45.58599854
+ Air Force ,Morrow,11,$71K - $85K,-84.32790375,33.58549881
+ Air Force ,Walnut Creek,20,$86K or more,-122.0735016,37.91809845
+ Air Force ,Mission,16,$86K or more,-98.35949707,26.17880058
+ Air Force ,Rochester,14,$71K - $85K,-77.63279724,43.14120102
+ Army ,Des Moines,6,$56K - $70K,-93.55059814,41.6106987
+ Army ,Montgomery,2,$40K - $55K,-86.25659943,32.3504982
+ Army ,Pottstown,19,$86K or more,-75.6155014,40.26050186
+ Army ,Westchester,15,$86K or more,-87.89209747,41.84870148
+ Army ,,7,$56K - $70K,-97.8219986,37.75099945
+ Army ,Houston,7,$56K - $70K,-95.65119934,29.69190025
+ Army ,Osceola,9,$56K - $70K,-93.54660034,38.07189941
+ Army ,Seminary,14,$71K - $85K,-89.47530365,31.5401001
+ Army ,Irvington,11,$71K - $85K,-74.23320007,40.72600174
+ Army ,Tampa,5,$56K - $70K,-82.41699982,28.01460075
+ Army ,Melbourne,16,$86K or more,-80.65280151,28.14900017
+ Army ,Columbia,10,$71K - $85K,-76.88330078,39.20429993
+ Army ,Lexington,2,$40K - $55K,-85.59680176,38.6882019
+ Army ,Amesbury,10,$71K - $85K,-70.95210266,42.85409927
+ Army ,Southbury,8,$56K - $70K,-73.24060059,41.46749878
+ Army ,Morristown,14,$71K - $85K,-83.32369995,36.22219849
+ Army ,Troy,16,$86K or more,-73.5951004,42.74950027
+ Army ,Orlando,8,$56K - $70K,-81.43659973,28.38990021
+ Army ,Gainesville,17,$86K or more,-77.63079834,38.81750107
+ Army ,East Lansing,4,$40K - $55K,-84.44270325,42.76269913
+ Army ,Chicago,19,$86K or more,-87.7016983,41.92060089
+ Army ,Green Bay,12,$71K - $85K,-87.9056015,44.52410126
+ Army ,Dover,15,$86K or more,-75.5970993,39.18170166
+ Army ,Detroit,2,$40K - $55K,-83.13860321,42.36790085
+ Army ,San Antonio,12,$71K - $85K,-98.52700043,29.52300072
+ Army ,Detroit,2,$40K - $55K,-83.25330353,42.42549896
+ Army ,Elkhart,8,$56K - $70K,-85.96589661,41.667099
+ Army ,Macon,5,$56K - $70K,-83.55049896,32.92240143
+ Army ,Alexandria,18,$86K or more,-77.12039948,38.83369827
+ Army ,,20,$86K or more,-97.8219986,37.75099945
+ Army ,,15,$86K or more,-74.21109772,40.71039963
+ Army ,Greensboro,2,$40K - $55K,-79.87319946,36.00740051
+ Army ,Chicago,8,$56K - $70K,-87.75550079,41.92229843
+ Army ,Aurora,13,$71K - $85K,-104.7939987,39.73970032
+ Army ,,9,$56K - $70K,-84.38800049,33.74900055
+ Army ,Skiatook,9,$56K - $70K,-96.0542984,36.42179871
+ Army ,Pittsfield,20,$86K or more,-73.2743988,42.47280121
+ Army ,Egg Harbor Township,7,$56K - $70K,-74.62169647,39.38700104
+ Army ,Birmingham,12,$71K - $85K,-86.80249786,33.52069855
+ Army ,Mesquite,10,$71K - $85K,-96.62470245,32.76729965
+ Army ,Greenville,8,$56K - $70K,-82.32209778,34.80039978
+ Army ,Mclean,11,$71K - $85K,-77.22229767,38.94990158
+ Army ,Chicago,14,$71K - $85K,-87.63760376,41.77629852
+ Army ,,11,$71K - $85K,-97.8219986,37.75099945
+ Army ,Wilsonville,2,$40K - $55K,-86.51889801,33.26129913
+ Army ,Marlborough,3,$40K - $55K,-71.55059814,42.34579849
+ Army ,Saint Paul,20,$86K or more,-92.959198,44.99229813
+ Army ,New York,19,$86K or more,-74.01319885,40.70819855
+ Army ,Summerfield,13,$71K - $85K,-82.05130005,29.00709915
+ Army ,Chicago,15,$86K or more,-87.71209717,41.7480011
+ Army ,Chicago,2,$40K - $55K,-87.61450195,41.69350052
+ Army ,Cornwall On Hudson,3,$40K - $55K,-74.00540161,41.43529892
+ Army ,Lynchburg,15,$86K or more,-79.15709686,37.34830093
+ Army ,Pico Rivera,15,$86K or more,-118.0884018,33.9864006
+ Army ,Springfield,6,$56K - $70K,-93.32969666,37.17020035
+ Army ,Minneapolis,10,$71K - $85K,-93.26170349,44.96450043
+ Army ,Crescent City,2,$40K - $55K,-87.85289764,40.74160004
+ Army ,Bronx,16,$86K or more,-73.86209869,40.81629944
+ Army ,Memphis,1,$40K - $55K,-89.84300232,35.07939911
+ Army ,New York,9,$56K - $70K,-74.01319885,40.70819855
+ Army ,Houston,5,$56K - $70K,-95.46779633,29.74889946
+ Army ,Brooksville,8,$56K - $70K,-82.55719757,28.60680008
+ Army ,Alpharetta,12,$71K - $85K,-84.22090149,34.09180069
+ Army ,Ruskin,9,$56K - $70K,-82.43139648,27.71010017
+ Army ,Hamilton,16,$86K or more,-84.49819946,39.42499924
+ Army ,Batavia,12,$71K - $85K,-78.2220993,42.9897995
+ Army ,Tonawanda,4,$40K - $55K,-78.84200287,42.9905014
+ Army ,Glen Burnie,10,$71K - $85K,-76.63159943,39.16260147
+ Army ,Edwardsville,1,$40K - $55K,-89.93849945,38.84899902
+ Army ,Murfreesboro,10,$71K - $85K,-86.31659698,35.88959885
+ Army ,Utica,4,$40K - $55K,-83.05490112,42.69049835
+ Army ,Piscataway,3,$40K - $55K,-74.46369934,40.55160141
+ Army ,Hot Springs National Park,11,$71K - $85K,-93.04930115,34.41790009
+ Army ,Holland,7,$56K - $70K,-86.126297,42.8526001
+ Army ,Fredonia,13,$71K - $85K,-87.99919891,43.48080063
+ Army ,Miami,17,$86K or more,-80.21440125,25.93880081
+ Army ,Cape May,17,$86K or more,-74.90249634,38.98339844
+ Army ,Springfield Gardens,16,$86K or more,-73.75019836,40.66500092
+ Army ,,11,$71K - $85K,-97.8219986,37.75099945
+ Army ,Lehigh Acres,17,$86K or more,-81.62329865,26.60250092
+ Army ,Milwaukee,4,$40K - $55K,-87.93360138,43.07659912
+ Army ,Nashville,10,$71K - $85K,-86.7322998,36.13869858
+ Army ,Nazareth,2,$40K - $55K,-75.30619812,40.75299835
+ Army ,Milford,7,$56K - $70K,-71.52100372,42.15439987
+ Army ,Columbus,13,$71K - $85K,-82.93170166,39.81840134
+ Army ,Seymour,2,$40K - $55K,-85.88960266,38.93849945
+ Army ,Dekalb,2,$40K - $55K,-88.74420166,41.89630127
+ Army ,Mililani,9,$56K - $70K,-157.9636993,21.4701004
+ Army ,Noblesville,19,$86K or more,-86.00859833,40.04560089
+ Army ,Summerville,3,$40K - $55K,-80.20149994,32.96469879
+ Army ,Chicago,18,$86K or more,-87.67310333,41.84930038
+ Army ,Pensacola,14,$71K - $85K,-87.2582016,30.45779991
+ Army ,Denver,12,$71K - $85K,-104.9459,39.84740067
+ Army ,Gering,15,$86K or more,-103.6648026,41.71009827
+ Army ,Chesapeake,4,$40K - $55K,-76.25759888,36.64630127
+ Army ,San Antonio,3,$40K - $55K,-98.48930359,29.46220016
+ Army ,,7,$56K - $70K,-116.2034988,43.61349869
+ Army ,,10,$71K - $85K,-97.8219986,37.75099945
+ Army ,Jersey City,13,$71K - $85K,-74.07240295,40.7364006
+ Army ,Gulfport,16,$86K or more,-89.1493988,30.47299957
+ Army ,Bel Air,20,$86K or more,-76.29820251,39.55260086
+ Army ,Bay City,20,$86K or more,-83.94609833,43.60950089
+ Army ,Stuart,15,$86K or more,-99.13420105,42.64020157
+ Army ,Yuma,6,$56K - $70K,-114.6657028,32.68880081
+ Army ,Snellville,20,$86K or more,-84.01989746,33.8572998
+ Army ,Bronx,5,$56K - $70K,-73.92230225,40.83739853
+ Army ,Green Bay,12,$71K - $85K,-88.07039642,44.48889923
+ Army ,Philadelphia,10,$71K - $85K,-75.0667038,40.03929901
+ Army ,Green Bay,7,$56K - $70K,-88.05789948,44.53919983
+ Army ,Lexington,1,$40K - $55K,-84.45659637,38.06150055
+ Army ,Stafford,2,$40K - $55K,-77.38870239,38.43360138
+ Army ,Chicago,4,$40K - $55K,-87.67009735,41.7757988
+ Army ,Phoenix,16,$86K or more,-112.0597992,33.34130096
+ Army ,Camden,11,$71K - $85K,-75.76360321,43.4455986
+ Army ,Colgate,14,$71K - $85K,-88.2507019,43.2030983
+ Army ,Scranton,16,$86K or more,-95.71040344,38.75849915
+ Army ,Omaha,13,$71K - $85K,-95.99939728,41.23899841
+ Army ,Ormond Beach,11,$71K - $85K,-81.19480133,29.30050087
+ Army ,Tampa,13,$71K - $85K,-82.51560211,27.99869919
+ Army ,Lawton,19,$86K or more,-98.60169983,34.78229904
+ Army ,Hot Springs National Park,14,$71K - $85K,-93.04930115,34.41790009
+ Army ,Washington,17,$86K or more,-77.05960083,38.93450165
+ Army ,New York,5,$56K - $70K,-74.01319885,40.70819855
+ Army ,Los Angeles,13,$71K - $85K,-118.2956009,33.9516983
+ Army ,Pierre Part,1,$40K - $55K,-91.1964035,29.88680077
+ Army ,Birmingham,9,$56K - $70K,-86.84079742,33.39720154
+ Army ,Syracuse,2,$40K - $55K,-76.17690277,43.05099869
+ Army ,San Marcos,2,$40K - $55K,-97.94139862,29.88330078
+ Army ,Buffalo,5,$56K - $70K,-78.87789917,42.91970062
+ Army ,Oklahoma City,17,$86K or more,-97.41819763,35.40019989
+ Army ,Brooklyn,20,$86K or more,-73.93969727,40.60089874
+ Army ,Dallas,14,$71K - $85K,-96.77760315,32.76729965
+ Army ,Boise,6,$56K - $70K,-116.3242035,43.63399887
+ Army ,Collierville,16,$86K or more,-89.65100098,35.09109879
+ Army ,San Antonio,15,$86K or more,-98.34909821,29.47640038
+ Army ,Morrison,9,$56K - $70K,-85.94039917,35.59009933
+ Army ,Rochester,16,$86K or more,-77.60369873,43.15579987
+ Army ,Warminster,19,$86K or more,-75.07299805,40.2140007
+ Army ,Sacramento,13,$71K - $85K,-121.3209991,38.55739975
+ Army ,Marshfield,4,$40K - $55K,-90.19809723,44.6271019
+ Army ,Bullhead City,19,$86K or more,-114.5736008,35.09000015
+ Army ,Louisville,5,$56K - $70K,-85.57939911,38.13000107
+ Army ,Secaucus,2,$40K - $55K,-74.06330109,40.78010178
+ Army ,New York,8,$56K - $70K,-73.92179871,40.86259842
+ Army ,Crowley,10,$71K - $85K,-97.41419983,32.58380127
+ Army ,Houston,14,$71K - $85K,-95.65119934,29.69190025
+ Army ,Loganville,15,$86K or more,-83.88929749,33.80419922
+ Army ,New Haven,6,$56K - $70K,-84.97799683,41.10219955
+ Army ,Ogden,16,$86K or more,-112.1315994,41.24710083
+ Army ,Milton,17,$86K or more,-87.18499756,30.66679955
+ Army ,Pittston,14,$71K - $85K,-75.75800323,41.30450058
+ Army ,Minneapolis,11,$71K - $85K,-93.24759674,45.16749954
+ Army ,Toledo,16,$86K or more,-83.60520172,41.70349884
+ Army ,,9,$56K - $70K,-97.8219986,37.75099945
+ Army ,Mountain Home,10,$71K - $85K,-92.41030121,36.33160019
+ Army ,North Conway,16,$86K or more,-71.13480377,44.03540039
+ Army ,Cayce,1,$40K - $55K,-81.06009674,33.95410156
+ Army ,Inez,10,$71K - $85K,-82.52279663,37.86809921
+ Army ,Salem,14,$71K - $85K,-80.10140228,37.29059982
+ Army ,Brooklyn,7,$56K - $70K,-73.91819763,40.70349884
+ Army ,Newton,7,$56K - $70K,-74.81279755,41.06669998
+ Army ,Tescott,13,$71K - $85K,-97.80269623,39.01599884
+ Army ,Beaumont,18,$86K or more,-94.17430115,30.05039978
+ Army ,Chicago,19,$86K or more,-87.65000153,41.84999847
+ Army ,Manheim,2,$40K - $55K,-76.42970276,40.17670059
+ Army ,New Berlin,7,$56K - $70K,-89.87879944,39.74089813
+ Army ,Tampa,10,$71K - $85K,-82.45149994,28.09070015
+ Army ,Allentown,15,$86K or more,-75.47799683,40.60620117
+ Army ,Monroe,14,$71K - $85K,-83.67310333,33.78480148
+ Army ,Green Bay,1,$40K - $55K,-88.02200317,44.48249817
+ Army ,Nashville,10,$71K - $85K,-86.7322998,36.13869858
+ Army ,Cleveland,17,$86K or more,-84.82109833,35.1155014
+ Army ,Valdosta,8,$56K - $70K,-83.33339691,30.87170029
+ Army ,Tucson,12,$71K - $85K,-110.9849014,32.33160019
+ Army ,Olean,15,$86K or more,-78.40419769,42.10329819
+ Army ,Brooklyn,7,$56K - $70K,-73.89440155,40.67020035
+ Army ,Cheyenne,20,$86K or more,-104.740303,41.07839966
+ Army ,,2,$40K - $55K,-96.82170105,32.77870178
+ Army ,Omaha,7,$56K - $70K,-95.99909973,41.29589844
+ Army ,Wake Forest,13,$71K - $85K,-78.55439758,35.97669983
+ Army ,Houston,5,$56K - $70K,-95.66269684,29.83270073
+ Army ,Livingston,15,$86K or more,-85.3082962,36.38679886
+ Army ,Anderson,6,$56K - $70K,-85.67199707,40.10010147
+ Army ,Miami,15,$86K or more,-80.18000031,25.95700073
+ Army ,Naperville,19,$86K or more,-88.14040375,41.77009964
+ Army ,Kings Mountain,7,$56K - $70K,-81.37069702,35.25579834
+ Army ,Bay City,8,$56K - $70K,-83.94609833,43.60950089
+ Army ,Brockton,5,$56K - $70K,-71.03820038,42.07960129
+ Army ,Huron,7,$56K - $70K,-82.53489685,41.37749863
+ Army ,San Lorenzo,10,$71K - $85K,-122.1344986,37.68119812
+ Army ,,14,$71K - $85K,-84.38800049,33.74900055
+ Army ,Aurora,14,$71K - $85K,-104.8319016,39.72940063
+ Army ,Alexandria,16,$86K or more,-77.04530334,38.81560135
+ Army ,,9,$56K - $70K,-97.8219986,37.75099945
+ Army ,Brookfield,12,$71K - $85K,-87.84539795,41.82540131
+ Army ,Oneonta,1,$40K - $55K,-75.03970337,42.48669815
+ Army ,Marengo,19,$86K or more,-88.60829926,42.2478981
+ Army ,Columbia City,12,$71K - $85K,-85.48100281,41.15319824
+ Army ,Grand Haven,4,$40K - $55K,-86.12670135,43.01610184
+ Army ,Plainfield,19,$86K or more,-74.42739868,40.61989975
+ Army ,Jackson Springs,4,$40K - $55K,-79.62339783,35.18249893
+ Army ,Warminster,13,$71K - $85K,-75.07299805,40.2140007
+ Army ,Whitsett,16,$86K or more,-79.60639954,36.04130173
+ Army ,Feeding Hills,8,$56K - $70K,-72.67639923,42.07040024
+ Army ,Schaumburg,13,$71K - $85K,-88.10990143,42.06309891
+ Army ,Staten Island,18,$86K or more,-74.1785965,40.54529953
+ Army ,Middle River,2,$40K - $55K,-76.40260315,39.34019852
+ Army ,Houston,2,$40K - $55K,-95.58840179,29.66679955
+ Army ,Bryan,20,$86K or more,-84.55310059,41.46149826
+ Army ,Grand Blanc,12,$71K - $85K,-83.62989807,42.92750168
+ Army ,Brandon,3,$40K - $55K,-82.30239868,27.90029907
+ Army ,Westport,8,$56K - $70K,-71.06759644,41.60770035
+ Army ,Dallas,16,$86K or more,-96.77760315,32.76729965
+ Army ,Mableton,1,$40K - $55K,-84.55039978,33.81190109
+ Army ,Hyattsville,17,$86K or more,-76.97299957,39.0007019
+ Army ,West Babylon,10,$71K - $85K,-73.35009766,40.70660019
+ Army ,Virginia Beach,7,$56K - $70K,-75.97799683,36.85290146
+ Army ,Erie,12,$71K - $85K,-80.08370209,42.1352005
+ Army ,Hobbs,6,$56K - $70K,-103.2763977,32.71030045
+ Army ,Centereach,12,$71K - $85K,-73.08119965,40.87319946
+ Army ,Waldo,7,$56K - $70K,-82.16139984,29.78619957
+ Army ,Minneapolis,5,$56K - $70K,-93.30039978,45.11669922
+ Army ,Talladega,17,$86K or more,-86.10340118,33.37820053
+ Army ,Jonesboro,14,$71K - $85K,-90.76280212,35.78939819
+ Army ,Chicago,2,$40K - $55K,-87.65000153,41.84999847
+ Army ,Marengo,18,$86K or more,-88.60829926,42.2478981
+ Army ,Nashville,1,$40K - $55K,-86.7322998,36.13869858
+ Army ,Edgewater,7,$56K - $70K,-80.89710236,28.91810036
+ Army ,Toms River,3,$40K - $55K,-74.25569916,39.97689819
+ Army ,Wichita Falls,19,$86K or more,-98.51950073,33.9516983
+ Army ,Rushford,9,$56K - $70K,-78.18409729,42.39419937
+ Army ,Cobbs Creek,13,$71K - $85K,-76.39350128,37.48690033
+ Army ,,10,$71K - $85K,-97.8219986,37.75099945
+ Army ,Plainview,8,$56K - $70K,-101.6829987,34.09460068
+ Army ,Dallas,13,$71K - $85K,-96.77760315,32.76729965
+ Army ,Boston,1,$40K - $55K,-71.05590057,42.3158989
+ Army ,New York,9,$56K - $70K,-74.00180054,40.74209976
+ Army ,Orlando,5,$56K - $70K,-81.3792038,28.53829956
+ Army ,Norton,14,$71K - $85K,-99.95580292,39.82780075
+ Army ,Newport,18,$86K or more,-84.36889648,38.96379852
+ Army ,Phoenix,2,$40K - $55K,-112.0261993,33.40629959
+ Army ,Austin,5,$56K - $70K,-97.86620331,30.27000046
+ Army ,Beaver Falls,3,$40K - $55K,-80.39589691,40.77310181
+ Army ,Seabrook,17,$86K or more,-70.87169647,42.88389969
+ Army ,Greensboro,1,$40K - $55K,-79.79199982,36.07260132
+ Army ,Jeffersonville,18,$86K or more,-85.6957016,38.32830048
+ Army ,,10,$71K - $85K,-97.8219986,37.75099945
+ Army ,Berlin,4,$40K - $55K,-72.77629852,41.60340118
+ Army ,Uncasville,12,$71K - $85K,-72.13089752,41.46260071
+ Army ,De Pere,1,$40K - $55K,-88.03099823,44.3905983
+ Army ,Richton Park,5,$56K - $70K,-87.72769928,41.48070145
+ Army ,Rio Rancho,5,$56K - $70K,-106.7231979,35.24670029
+ Army ,Ellijay,2,$40K - $55K,-84.4253006,34.70439911
+ Army ,Puyallup,12,$71K - $85K,-122.2534027,47.12779999
+ Army ,Cartersville,11,$71K - $85K,-84.8022995,34.16529846
+ Army ,Tuscaloosa,10,$71K - $85K,-87.56919861,33.20980072
+ Army ,Duson,8,$56K - $70K,-92.18250275,30.18149948
+ Army ,Kewanna,3,$40K - $55K,-86.4036026,41.01139832
+ Army ,Virginia Beach,10,$71K - $85K,-76.17669678,36.79679871
+ Army ,Miami,15,$86K or more,-80.3839035,25.85880089
+ Army ,Las Vegas,16,$86K or more,-115.0876999,36.12009811
+ Army ,Mansfield,17,$86K or more,-82.57900238,40.75730133
+ Army ,,15,$86K or more,-97.8219986,37.75099945
+ Army ,Lexington,15,$86K or more,-84.60590363,38.01610184
+ Army ,Parlin,11,$71K - $85K,-74.30200195,40.45920181
+ Army ,Atlanta,11,$71K - $85K,-84.38800049,33.74900055
+ Army ,Philadelphia,15,$86K or more,-75.14520264,39.97740173
+ Army ,Naples,9,$56K - $70K,-81.76300049,26.18499947
+ Army ,Virginia Beach,7,$56K - $70K,-76.14640045,36.83720016
+ Army ,Palm Bay,4,$40K - $55K,-80.63510132,27.91069984
+ Army ,,19,$86K or more,-96.82170105,32.77870178
+ Army ,North Providence,3,$40K - $55K,-71.47229767,41.85290146
+ Army ,Andover,6,$56K - $70K,-71.16549683,42.64889908
+ Army ,Oakland,5,$56K - $70K,-122.1746979,37.73929977
+ Army ,Riverview,18,$86K or more,-82.32649994,27.86610031
+ Army ,,5,$56K - $70K,-90.66660309,38.57830048
+ Army ,Wooster,13,$71K - $85K,-81.97299957,40.80770111
+ Army ,Sheboygan,2,$40K - $55K,-87.74780273,43.70980072
+ Army ,Revere,4,$40K - $55K,-70.99690247,42.41630173
+ Army ,Rochester,4,$40K - $55K,-83.123703,42.65990067
+ Army ,Caledonia,3,$40K - $55K,-85.55059814,42.78639984
+ Army ,Indianapolis,3,$40K - $55K,-86.24040222,39.69860077
+ Army ,Palmetto,3,$40K - $55K,-82.50509644,27.59309959
+ Army ,North Hollywood,12,$71K - $85K,-118.3943024,34.20849991
+ Army ,Punxsutawney,1,$40K - $55K,-78.97779846,40.95149994
+ Army ,Mattoon,10,$71K - $85K,-88.35959625,39.48849869
+ Army ,Boston,20,$86K or more,-71.1230011,42.36600113
+ Army ,Cullman,2,$40K - $55K,-86.74739838,34.15430069
+ Army ,Danville,9,$56K - $70K,-81.88559723,38.0401001
+ Army ,Palo Alto,1,$40K - $55K,-122.1041031,37.45759964
+ Army ,Saint Cloud,9,$56K - $70K,-81.2928009,28.24160004
+ Army ,Pittsburgh,1,$40K - $55K,-79.98799896,40.44950104
+ Army ,Des Moines,3,$40K - $55K,-93.62889862,41.58390045
+ Army ,South Point,11,$71K - $85K,-82.54070282,38.4557991
+ Army ,Brooklyn,10,$71K - $85K,-73.94629669,40.68090057
+ Army ,Woodbridge,13,$71K - $85K,-77.34629822,38.64189911
+ Army ,Beloit,15,$86K or more,-89.15989685,42.5583992
+ Army ,,13,$71K - $85K,-84.38800049,33.74900055
+ Army ,Moore,20,$86K or more,-82.02400208,34.85639954
+ Army ,Saint Louis,13,$71K - $85K,-90.26940155,38.62530136
+ Army ,Richmond,2,$40K - $55K,-77.4960022,37.61920166
+ Army ,Philadelphia,4,$40K - $55K,-75.22810364,39.94070053
+ Army ,San Antonio,10,$71K - $85K,-98.45559692,29.48209953
+ Army ,,8,$56K - $70K,-96.82170105,32.77870178
+ Army ,Six Mile,5,$56K - $70K,-82.83170319,34.84540176
+ Army ,Trenton,14,$71K - $85K,-74.57250214,40.2120018
+ Army ,New Iberia,16,$86K or more,-91.87210083,29.95789909
+ Army ,Lewisburg,16,$86K or more,-76.95870209,40.98120117
+ Army ,Chicago,14,$71K - $85K,-87.71209717,41.7480011
+ Army ,Saint Paul,6,$56K - $70K,-93.16699982,44.95550156
+ Army ,Chicago,8,$56K - $70K,-87.71209717,41.7480011
+ Army ,Marion,4,$40K - $55K,-83.14250183,40.59820175
+ Army ,Clayton,4,$40K - $55K,-78.45639801,35.65069962
+ Army ,Murfreesboro,9,$56K - $70K,-86.31659698,35.88959885
+ Army ,Elk Grove Village,19,$86K or more,-87.97029877,42.00389862
+ Army ,,16,$86K or more,-97.8219986,37.75099945
+ Army ,Philadelphia,12,$71K - $85K,-75.18470001,39.93889999
+ Army ,Springfield,17,$86K or more,-93.32969666,37.17020035
+ Army ,Bronx,6,$56K - $70K,-73.9056015,40.87670135
+ Army ,East Chicago,13,$71K - $85K,-87.45279694,41.64630127
+ Army ,New York,8,$56K - $70K,-74.00180054,40.74209976
+ Army ,Manchester,1,$40K - $55K,-71.4434967,42.94029999
+ Army ,Mount Vernon,3,$40K - $55K,-73.83460236,40.90829849
+ Army ,Glendale,1,$40K - $55K,-112.1856995,33.66690063
+ Army ,Pompano Beach,16,$86K or more,-80.2059021,26.24419975
+ Army ,Kingsport,17,$86K or more,-82.46980286,36.53649902
+ Army ,Cleveland,14,$71K - $85K,-84.82109833,35.1155014
+ Army ,Endicott,17,$86K or more,-76.09089661,42.14599991
+ Army ,,9,$56K - $70K,-97.8219986,37.75099945
+ Army ,Tulsa,11,$71K - $85K,-95.96269989,36.0970993
+ Army ,Endicott,10,$71K - $85K,-76.09089661,42.14599991
+ Army ,Potsdam,4,$40K - $55K,-74.92579651,44.66090012
+ Army ,Fort Washington,6,$56K - $70K,-76.98049927,38.75510025
+ Army ,,19,$86K or more,-97.5164032,35.46760178
+ Army ,Manheim,14,$71K - $85K,-76.42970276,40.17670059
+ Army ,New York,18,$86K or more,-73.97720337,40.78079987
+ Army ,Fort Lauderdale,17,$86K or more,-80.2766037,26.06809998
+ Army ,Philadelphia,2,$40K - $55K,-75.1638031,39.95230103
+ Army ,New Orleans,7,$56K - $70K,-90.1230011,29.94680023
+ Army ,Amherst,4,$40K - $55K,-82.26200104,41.35680008
+ Army ,Washington,16,$86K or more,-89.4292984,40.69549942
+ Army ,Lawrenceville,19,$86K or more,-83.98799896,33.95619965
+ Army ,Dallas,6,$56K - $70K,-96.80670166,32.78310013
+ Army ,Morrisville,17,$86K or more,-78.83260345,35.86009979
+ Army ,Canton,20,$86K or more,-81.43309784,40.7901001
+ Army ,Chicago,8,$56K - $70K,-87.65000153,41.84999847
+ Army ,Chicago,15,$86K or more,-87.60540009,41.74440002
+ Army ,Alpharetta,17,$86K or more,-84.22090149,34.09180069
+ Army ,New York,15,$86K or more,-74.0059967,40.71429825
+ Army ,,15,$86K or more,-84.38800049,33.74900055
+ Army ,Skokie,20,$86K or more,-87.72850037,42.03820038
+ Army ,Pleasant Prairie,6,$56K - $70K,-87.8844986,42.52920151
+ Army ,Harrisburg,2,$40K - $55K,-76.8585968,40.25579834
+ Army ,Livingston,12,$71K - $85K,-94.82299805,30.72470093
+ Army ,Plainfield,14,$71K - $85K,-88.20400238,41.6269989
+ Army ,Fenton,17,$86K or more,-83.74669647,42.77050018
+ Army ,Cleveland,1,$40K - $55K,-81.64659882,41.4720993
+ Army ,Omaha,15,$86K or more,-95.94740295,41.2112999
+ Army ,Denver,17,$86K or more,-104.9692001,39.73130035
+ Army ,Indianapolis,3,$40K - $55K,-86.06900024,39.72840118
+ Army ,Morristown,16,$86K or more,-74.49420166,40.76839828
+ Army ,Cumberland,13,$71K - $85K,-71.43379974,41.95600128
+ Army ,Decatur,7,$56K - $70K,-87.00779724,34.60649872
+ Army ,Summerville,12,$71K - $85K,-80.20149994,32.96469879
+ Army ,Del Valle,16,$86K or more,-97.5904007,30.15180016
+ Army ,North Olmsted,11,$71K - $85K,-81.92250061,41.41630173
+ Army ,Indianapolis,5,$56K - $70K,-86.10030365,39.86859894
+ Army ,Richmond,13,$71K - $85K,-77.45819855,37.55220032
+ Army ,,17,$86K or more,-96.82170105,32.77870178
+ Army ,Bayside,20,$86K or more,-73.77709961,40.76839828
+ Army ,Brooklyn,15,$86K or more,-73.87259674,40.66949844
+ Army ,Waltham,16,$86K or more,-71.23529816,42.36989975
+ Army ,Woburn,20,$86K or more,-71.15950012,42.48970032
+ Army ,Atlanta,20,$86K or more,-84.44319916,33.79299927
+ Army ,Kansas City,13,$71K - $85K,-94.5381012,39.08950043
+ Army ,Cherokee,17,$86K or more,-83.27330017,35.51610184
+ Army ,League City,8,$56K - $70K,-95.09490204,29.50740051
+ Army ,Detroit,10,$71K - $85K,-83.14360046,42.42789841
+ Army ,Bells,12,$71K - $85K,-96.44660187,33.63389969
+ Army ,,12,$71K - $85K,-97.8219986,37.75099945
+ Army ,San Pablo,15,$86K or more,-122.3331985,37.98089981
+ Army ,Warner Robins,14,$71K - $85K,-83.62860107,32.58140182
+ Army ,Grand Junction,13,$71K - $85K,-108.4868011,39.07830048
+ Army ,Cullman,16,$86K or more,-86.74739838,34.15430069
+ Army ,Adrian,14,$71K - $85K,-84.06590271,41.89339828
+ Army ,Barnwell,19,$86K or more,-81.47309875,33.23419952
+ Army ,Northumberland,15,$86K or more,-76.75679779,40.92580032
+ Army ,Nutley,17,$86K or more,-74.15740204,40.82170105
+ Army ,Ridley Park,11,$71K - $85K,-75.3214035,39.87509918
+ Army ,Cleveland,7,$56K - $70K,-81.4713974,41.49729919
+ Army ,,12,$71K - $85K,-97.8219986,37.75099945
+ Army ,Robbins,8,$56K - $70K,-84.59420013,36.33119965
+ Army ,Haskell,14,$71K - $85K,-74.3030014,41.02809906
+ Army ,Seattle,15,$86K or more,-122.2967987,47.63190079
+ Army ,,20,$86K or more,-80.8431015,35.22710037
+ Army ,Saint Paul,19,$86K or more,-93.11620331,44.92779922
+ Army ,Atlanta,17,$86K or more,-84.32879639,33.71709824
+ Army ,Westfield,9,$56K - $70K,-74.34629822,40.65340042
+ Army ,Phoenix,19,$86K or more,-112.1253967,33.50799942
+ Army ,Boston,16,$86K or more,-71.05590057,42.3158989
+ Army ,Atlanta,12,$71K - $85K,-84.33409882,33.87670135
+ Army ,Pasadena,7,$56K - $70K,-76.51159668,39.12519836
+ Army ,Mayfield,14,$71K - $85K,-88.63880157,36.7364006
+ Army ,Crestview,4,$40K - $55K,-86.44850159,30.79140091
+ Army ,Wright City,16,$86K or more,-91.04869843,38.80080032
+ Army ,Mifflintown,14,$71K - $85K,-77.3572998,40.5965004
+ Army ,,2,$40K - $55K,-97.8219986,37.75099945
+ Army ,Lenexa,7,$56K - $70K,-94.74530029,38.94990158
+ Army ,Zanesville,9,$56K - $70K,-82.07180023,39.95529938
+ Army ,Massillon,13,$71K - $85K,-81.4917984,40.81819916
+ Army ,Davenport,7,$56K - $70K,-90.6631012,41.53250122
+ Army ,Decatur,10,$71K - $85K,-84.82589722,35.50189972
+ Army ,Cape Coral,15,$86K or more,-81.94290161,26.69630051
+ Army ,Orange Park,20,$86K or more,-81.77149963,30.16720009
+ Army ,Virginia Beach,10,$71K - $85K,-75.97799683,36.85290146
+ Army ,North Richland Hills,18,$86K or more,-97.22889709,32.83430099
+ Army ,Dalton,4,$40K - $55K,-84.90820313,34.7981987
+ Army ,Boston,20,$86K or more,-71.1230011,42.36600113
+ Army ,Auburndale,20,$86K or more,-81.80370331,28.0795002
+ Army ,Colfax,17,$86K or more,-120.9293976,39.0904007
+ Army ,Springfield,4,$40K - $55K,-93.32969666,37.17020035
+ Army ,Yonkers,11,$71K - $85K,-73.87729645,40.95130157
+ Army ,Dallas,15,$86K or more,-96.80670166,32.78310013
+ Army ,Huntsville,4,$40K - $55K,-86.51270294,34.79449844
+ Army ,Stevensville,2,$40K - $55K,-76.33249664,38.93799973
+ Army ,La Crosse,10,$71K - $85K,-78.05500031,36.68180084
+ Army ,Zion,15,$86K or more,-87.87039948,42.45629883
+ Army ,Highlandville,5,$56K - $70K,-93.30509949,36.91590118
+ Army ,Pasadena,8,$56K - $70K,-95.20429993,29.71820068
+ Army ,Titusville,11,$71K - $85K,-80.85230255,28.53109932
+ Army ,,16,$86K or more,-97.8219986,37.75099945
+ Army ,Lincoln,20,$86K or more,-96.76300049,40.79079819
+ Army ,Forest City,19,$86K or more,-81.8667984,35.31480026
+ Army ,Denver,16,$86K or more,-104.9688034,39.75939941
+ Army ,Billings,1,$40K - $55K,-108.5789032,45.76610184
+ Army ,Moultrie,18,$86K or more,-83.84339905,31.19300079
+ Army ,North Tonawanda,15,$86K or more,-78.82009888,43.07080078
+ Army ,Palmerton,2,$40K - $55K,-75.58830261,40.83660126
+ Army ,Angleton,14,$71K - $85K,-95.45539856,29.18510056
+ Army ,Fond Du Lac,11,$71K - $85K,-88.36660004,43.75600052
+ Army ,Cedar Rapids,5,$56K - $70K,-91.66200256,42.0245018
+ Army ,Seattle,12,$71K - $85K,-122.2712021,47.54069901
+ Army ,Cincinnati,15,$86K or more,-84.39640045,39.20660019
+ Army ,Frederick,17,$86K or more,-77.47750092,39.35549927
+ Army ,Hamburg,13,$71K - $85K,-78.83010101,42.70909882
+ Army ,Dallas,11,$71K - $85K,-96.80670166,32.78310013
+ Army ,Killeen,16,$86K or more,-97.85350037,31.02910042
+ Army ,Dallas,6,$56K - $70K,-96.68509674,32.77320099
+ Army ,Highland City,14,$71K - $85K,-81.87789917,27.96529961
+ Army ,Adrian,4,$40K - $55K,-84.06590271,41.89339828
+ Army ,Ocean Springs,14,$71K - $85K,-88.75869751,30.40069962
+ Army ,Augusta,5,$56K - $70K,-69.75669861,44.40510178
+ Army ,Bel Air,15,$86K or more,-76.29820251,39.55260086
+ Army ,Lawrenceville,15,$86K or more,-84.06780243,33.91880035
+ Army ,Lenoir,17,$86K or more,-81.55130005,35.97259903
+ Army ,Hazard,3,$40K - $55K,-83.05680084,37.30920029
+ Army ,Denver,20,$86K or more,-104.983902,39.73199844
+ Army ,Jacksonville,5,$56K - $70K,-85.76129913,33.81380081
+ Army ,Jackson,7,$56K - $70K,-74.34590149,40.104599
+ Army ,Henderson,17,$86K or more,-115.0738983,36.03120041
+ Army ,Philadelphia,7,$56K - $70K,-75.17089844,39.99639893
+ Army ,Lusby,11,$71K - $85K,-76.43979645,38.38570023
+ Army ,Deerfield Beach,1,$40K - $55K,-80.10089874,26.31100082
+ Army ,Havana,7,$56K - $70K,-93.57460022,35.11719894
+ Army ,Morganton,14,$71K - $85K,-81.72799683,35.76119995
+ Army ,Bismarck,15,$86K or more,-93.17759705,34.29600143
+ Army ,Garland,9,$56K - $70K,-96.59259796,32.86199951
+ Army ,New York,2,$40K - $55K,-74.01319885,40.70819855
+ Army ,Wilmington,6,$56K - $70K,-77.91899872,34.12559891
+ Army ,Sarasota,17,$86K or more,-82.4733963,27.32550049
+ Army ,Milton,13,$71K - $85K,-87.18499756,30.66679955
+ Army ,Hammond,19,$86K or more,-87.49559784,41.58420181
+ Army ,Green Bay,13,$71K - $85K,-88.02200317,44.48249817
+ Army ,Overland Park,18,$86K or more,-94.68109894,38.95930099
+ Army ,Brandenburg,3,$40K - $55K,-86.15190125,37.96969986
+ Army ,Rohnert Park,14,$71K - $85K,-122.7041016,38.34329987
+ Army ,Nacogdoches,17,$86K or more,-94.47850037,31.73010063
+ Army ,Carthage,8,$56K - $70K,-94.31950378,32.11930084
+ Army ,Chandler,10,$71K - $85K,-111.8739014,33.32009888
+ Army ,Los Angeles,3,$40K - $55K,-118.2922974,34.04779816
+ Army ,Oneida,2,$40K - $55K,-75.63780212,43.06719971
+ Army ,Asheboro,16,$86K or more,-79.84410095,35.65200043
+ Army ,Lawrenceville,14,$71K - $85K,-84.00879669,34.00910187
+ Army ,Houston,4,$40K - $55K,-95.46779633,29.74889946
+ Army ,Pittsburgh,20,$86K or more,-79.74639893,40.48360062
+ Army ,Elk River,3,$40K - $55K,-93.56770325,45.33430099
+ Army ,Rockaway,13,$71K - $85K,-74.49729919,40.95899963
+ Army ,Macon,1,$40K - $55K,-83.68019867,32.77759933
+ Army ,Gastonia,13,$71K - $85K,-81.24279785,35.22980118
+ Army ,Dallas,6,$56K - $70K,-96.88259888,32.77569962
+ Army ,Chicago,18,$86K or more,-87.67569733,41.90380096
+ Army ,Clifton,2,$40K - $55K,-97.54319763,31.80139923
+ Army ,Tampa,2,$40K - $55K,-82.45069885,28.05109978
+ Army ,Natick,7,$56K - $70K,-71.35240173,42.28730011
+ Army ,Aurora,20,$86K or more,-88.3769989,41.76530075
+ Army ,Noble,13,$71K - $85K,-97.2786026,35.13970184
+ Army ,North Aurora,17,$86K or more,-88.34700012,41.8044014
+ Army ,Aurora,20,$86K or more,-104.7680969,39.66030121
+ Army ,White,16,$86K or more,-79.41809845,40.06700134
+ Army ,Houghton Lake,16,$86K or more,-84.73400116,44.29150009
+ Army ,Oak Park,19,$86K or more,-87.79019928,41.89369965
+ Army ,Oxford,11,$71K - $85K,-83.29560089,42.85340118
+ Army ,Boston,15,$86K or more,-71.03620148,42.33459854
+ Army ,Cincinnati,18,$86K or more,-84.5161972,39.28310013
+ Army ,Clarksville,4,$40K - $55K,-87.40969849,36.55970001
+ Army ,Anniston,2,$40K - $55K,-85.68199921,33.69649887
+ Army ,Grand Rapids,9,$56K - $70K,-85.6576004,42.95360184
+ Army ,Brooklyn,14,$71K - $85K,-73.91079712,40.61000061
+ Army ,Hobbs,5,$56K - $70K,-103.2763977,32.71030045
+ Army ,Oak Park,8,$56K - $70K,-87.78450012,41.88499832
+ Army ,Chicago,10,$71K - $85K,-87.65599823,41.81299973
+ Army ,Janesville,13,$71K - $85K,-88.94550323,42.66740036
+ Army ,Staten Island,3,$40K - $55K,-74.1785965,40.54529953
+ Army ,Mesquite,4,$40K - $55K,-96.63379669,32.81949997
+ Army ,Midland,11,$71K - $85K,-102.0334015,32.04660034
+ Army ,Laguna Niguel,8,$56K - $70K,-117.7052002,33.53509903
+ Army ,Buffalo,18,$86K or more,-78.80660248,42.93560028
+ Army ,Milford,17,$86K or more,-75.36759949,38.94179916
+ Army ,,14,$71K - $85K,-97.8219986,37.75099945
+ Army ,Rochester,20,$86K or more,-77.71379852,43.17300034
+ Army ,Birmingham,3,$40K - $55K,-86.70880127,33.6495018
+ Army ,Saginaw,19,$86K or more,-83.89910126,43.41550064
+ Army ,Dunkirk,8,$56K - $70K,-79.32820129,42.4817009
+ Army ,,18,$86K or more,-97.5164032,35.46760178
+ Army ,San Antonio,17,$86K or more,-98.60839844,29.5196991
+ Army ,Chicago,8,$56K - $70K,-87.65509796,41.93730164
+ Army ,Suffolk,15,$86K or more,-76.60970306,36.70439911
+ Army ,Louisville,3,$40K - $55K,-85.78510284,38.16090012
+ Army ,Hemet,16,$86K or more,-116.8356018,33.64250183
+ Army ,Lewisburg,4,$40K - $55K,-76.95870209,40.98120117
+ Army ,Somerset,7,$56K - $70K,-84.55840302,37.14199829
+ Army ,Mesa,13,$71K - $85K,-111.7685013,33.44649887
+ Army ,Colorado Springs,5,$56K - $70K,-104.8214035,38.83390045
+ Army ,Frederick,16,$86K or more,-77.27580261,39.46239853
+ Army ,Williston,16,$86K or more,-73.08540344,44.42350006
+ Army ,,9,$56K - $70K,-84.38800049,33.74900055
+ Army ,Pittsburgh,7,$56K - $70K,-79.95610046,40.44390106
+ Army ,Brooklyn,11,$71K - $85K,-73.98680115,40.62009811
+ Army ,Waterloo,9,$56K - $70K,-92.31500244,42.45690155
+ Army ,Charlotte,13,$71K - $85K,-80.7858963,35.2179985
+ Army ,Abbeville,2,$40K - $55K,-92.21099854,29.91239929
+ Army ,Willimantic,16,$86K or more,-72.2111969,41.70940018
+ Army ,Swanton,18,$86K or more,-83.86940002,41.58670044
+ Army ,New York,13,$71K - $85K,-74.00520325,40.72140121
+ Army ,Cheyenne,12,$71K - $85K,-104.740303,41.07839966
+ Army ,Baton Rouge,15,$86K or more,-91.07679749,30.35490036
+ Army ,Phillips,20,$86K or more,-90.38999939,45.69829941
+ Army ,Cleveland,3,$40K - $55K,-81.69539642,41.49950027
+ Army ,Jacksonville,7,$56K - $70K,-81.77799988,30.2656002
+ Army ,,3,$40K - $55K,-97.8219986,37.75099945
+ Army ,Dallas,14,$71K - $85K,-96.80670166,32.78310013
+ Army ,Flint,14,$71K - $85K,-83.72039795,42.9618988
+ Army ,Batavia,3,$40K - $55K,-84.12249756,39.09719849
+ Army ,Dublin,7,$56K - $70K,-83.12650299,40.11759949
+ Army ,Orlando,12,$71K - $85K,-81.39389801,28.46109962
+ Army ,Pittston,5,$56K - $70K,-75.75800323,41.30450058
+ Army ,Sweetwater,17,$86K or more,-84.43840027,35.58470154
+ Army ,Newark,15,$86K or more,-74.19450378,40.73910141
+ Army ,Brunswick,5,$56K - $70K,-81.83149719,41.23880005
+ Army ,Wenatchee,12,$71K - $85K,-120.3592987,47.37070084
+ Army ,Minneapolis,15,$86K or more,-93.30319977,44.96789932
+ Army ,Dallas,2,$40K - $55K,-96.77760315,32.76729965
+ Army ,Burleson,3,$40K - $55K,-97.30760193,32.5304985
+ Army ,,2,$40K - $55K,-97.8219986,37.75099945
+ Army ,Morgantown,13,$71K - $85K,-79.94329834,39.64559937
+ Army ,Montpelier,6,$56K - $70K,-72.57540131,44.26010132
+ Army ,Covington,4,$40K - $55K,-84.50939941,39.06679916
+ Army ,New York,15,$86K or more,-73.93840027,40.82699966
+ Navy/Marines ,Sebastian,9,$56K - $70K,-80.54129791,27.86590004
+ Navy/Marines ,Jamestown,2,$40K - $55K,-79.2519989,42.10449982
+ Navy/Marines ,Hollidaysburg,13,$71K - $85K,-78.33149719,40.4367981
+ Navy/Marines ,Orlando,1,$40K - $55K,-81.44290161,28.51429939
+ Navy/Marines ,Indianapolis,17,$86K or more,-86.25509644,39.79259872
+ Navy/Marines ,Adrian,9,$56K - $70K,-84.06590271,41.89339828
+ Navy/Marines ,Miami,5,$56K - $70K,-80.45819855,25.5583992
+ Navy/Marines ,Seneca,3,$40K - $55K,-82.95320129,34.68569946
+ Navy/Marines ,Orlando,20,$86K or more,-81.33699799,28.39889908
+ Navy/Marines ,Fort Lauderdale,13,$71K - $85K,-80.1434021,26.12229919
+ Navy/Marines ,,6,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Dunnellon,12,$71K - $85K,-82.35289764,29.10140038
+ Navy/Marines ,Seneca,8,$56K - $70K,-82.95320129,34.68569946
+ Navy/Marines ,Deltona,1,$40K - $55K,-81.1855011,28.9109993
+ Navy/Marines ,Charlotte,14,$71K - $85K,-80.90910339,35.2344017
+ Navy/Marines ,White Plains,6,$56K - $70K,-73.74369812,41.00569916
+ Navy/Marines ,Durant,12,$71K - $85K,-96.39170074,33.99499893
+ Navy/Marines ,Pittsburgh,19,$86K or more,-80.01540375,40.39640045
+ Navy/Marines ,White Plains,12,$71K - $85K,-73.76290131,41.0340004
+ Navy/Marines ,Richmond,11,$71K - $85K,-77.52059937,37.58399963
+ Navy/Marines ,Brooklyn,5,$56K - $70K,-73.94499969,40.64509964
+ Navy/Marines ,Fort Lauderdale,2,$40K - $55K,-80.26689911,26.21199989
+ Navy/Marines ,Philadelphia,15,$86K or more,-75.09400177,40.01919937
+ Navy/Marines ,Humble,4,$40K - $55K,-95.27519989,29.94589996
+ Navy/Marines ,San Diego,8,$56K - $70K,-117.1277008,32.73680115
+ Navy/Marines ,Maspeth,11,$71K - $85K,-73.91149902,40.72480011
+ Navy/Marines ,Barre,4,$40K - $55K,-72.47309875,44.1792984
+ Navy/Marines ,Tampa,13,$71K - $85K,-82.45069885,28.05109978
+ Navy/Marines ,Menomonee Falls,10,$71K - $85K,-88.12460327,43.14860153
+ Navy/Marines ,Houston,1,$40K - $55K,-95.40989685,29.75270081
+ Navy/Marines ,Whately,14,$71K - $85K,-72.63480377,42.43980026
+ Navy/Marines ,Bangor,1,$40K - $55K,-68.84020233,44.86349869
+ Navy/Marines ,Syracuse,9,$56K - $70K,-76.07289886,43.03469849
+ Navy/Marines ,Bangor,6,$56K - $70K,-68.84020233,44.86349869
+ Navy/Marines ,Lake City,16,$86K or more,-82.62640381,30.27120018
+ Navy/Marines ,Roseville,13,$71K - $85K,-82.93609619,42.50960159
+ Navy/Marines ,Tampa,13,$71K - $85K,-82.59049988,28.00639915
+ Navy/Marines ,Huntington Beach,3,$40K - $55K,-118.0438004,33.71099854
+ Navy/Marines ,Taunton,11,$71K - $85K,-71.12999725,41.91130066
+ Navy/Marines ,Hammond,1,$40K - $55K,-87.49559784,41.58420181
+ Navy/Marines ,Dallas,9,$56K - $70K,-96.80670166,32.78310013
+ Navy/Marines ,Aiken,16,$86K or more,-81.69210052,33.44829941
+ Navy/Marines ,Clayton,6,$56K - $70K,-83.37750244,34.89530182
+ Navy/Marines ,Alexandria,16,$86K or more,-92.46929932,31.28149986
+ Navy/Marines ,Philadelphia,6,$56K - $70K,-75.04589844,40.08950043
+ Navy/Marines ,Pittsburgh,15,$86K or more,-79.92939758,40.4530983
+ Navy/Marines ,Greenville,14,$71K - $85K,-82.37770081,34.77569962
+ Navy/Marines ,Tampa,1,$40K - $55K,-82.45069885,28.05109978
+ Navy/Marines ,Hartford,15,$86K or more,-72.69049835,41.74240112
+ Navy/Marines ,Garner,10,$71K - $85K,-78.57910156,35.64609909
+ Navy/Marines ,Mayfield,9,$56K - $70K,-88.63880157,36.7364006
+ Navy/Marines ,Oswego,12,$71K - $85K,-76.39710236,43.44639969
+ Navy/Marines ,Portland,20,$86K or more,-122.6408005,45.47629929
+ Navy/Marines ,Statesville,3,$40K - $55K,-80.9068985,35.72499847
+ Navy/Marines ,Montpelier,18,$86K or more,-72.57540131,44.26010132
+ Navy/Marines ,West Haven,19,$86K or more,-72.95739746,41.27299881
+ Navy/Marines ,Cabot,16,$86K or more,-92.08580017,34.94609833
+ Navy/Marines ,Niles,4,$40K - $55K,-86.21640015,41.84389877
+ Navy/Marines ,Jacksonville,1,$40K - $55K,-81.77799988,30.2656002
+ Navy/Marines ,Paducah,4,$40K - $55K,-88.71569824,37.03829956
+ Navy/Marines ,Mission,5,$56K - $70K,-98.35949707,26.17880058
+ Navy/Marines ,Brunswick,10,$71K - $85K,-81.62169647,31.22130013
+ Navy/Marines ,Hightstown,18,$86K or more,-74.53150177,40.24850082
+ Navy/Marines ,Fort Smith,14,$71K - $85K,-94.41259766,35.36589813
+ Navy/Marines ,Groton,16,$86K or more,-72.03859711,41.35319901
+ Navy/Marines ,Purchase,20,$86K or more,-73.71730042,41.0387001
+ Navy/Marines ,,12,$71K - $85K,-97.8219986,37.75099945
+ Navy/Marines ,West Chester,10,$71K - $85K,-84.40440369,39.33760071
+ Navy/Marines ,Columbia,9,$56K - $70K,-81.061203,34.09880066
+ Navy/Marines ,Chicago,10,$71K - $85K,-87.63150024,41.92879868
+ Navy/Marines ,Ellenwood,20,$86K or more,-84.26049805,33.63560104
+ Navy/Marines ,Williamsburg,8,$56K - $70K,-84.16600037,36.72219849
+ Navy/Marines ,Miami,20,$86K or more,-80.18260193,25.78059959
+ Navy/Marines ,Plymouth,12,$71K - $85K,-83.53669739,42.3655014
+ Navy/Marines ,Rochester,10,$71K - $85K,-77.64009857,43.18190002
+ Navy/Marines ,Barnwell,8,$56K - $70K,-81.47309875,33.23419952
+ Navy/Marines ,Miami,19,$86K or more,-80.18260193,25.78059959
+ Navy/Marines ,Cedar City,5,$56K - $70K,-113.0618973,37.67750168
+ Navy/Marines ,Stafford,19,$86K or more,-77.38870239,38.43360138
+ Navy/Marines ,Chicago,17,$86K or more,-87.65599823,41.81299973
+ Navy/Marines ,Copperas Cove,14,$71K - $85K,-97.99210358,31.20019913
+ Navy/Marines ,Washington,11,$71K - $85K,-77.05960083,38.93450165
+ Navy/Marines ,Otis,9,$56K - $70K,-102.9701004,40.21390152
+ Navy/Marines ,Muskegon,5,$56K - $70K,-86.18340302,43.17459869
+ Navy/Marines ,Cleveland,19,$86K or more,-81.79350281,41.45709991
+ Navy/Marines ,Fort Worth,10,$71K - $85K,-97.28800201,32.85240173
+ Navy/Marines ,Newport News,5,$56K - $70K,-76.5134964,37.11700058
+ Navy/Marines ,Chicago,15,$86K or more,-87.71209717,41.7480011
+ Navy/Marines ,Williamstown,3,$40K - $55K,-84.59349823,38.63999939
+ Navy/Marines ,Corinth,10,$71K - $85K,-88.57939911,34.89789963
+ Navy/Marines ,Broken Arrow,17,$86K or more,-95.55760193,36.02709961
+ Navy/Marines ,Seattle,5,$56K - $70K,-122.313797,47.38240051
+ Navy/Marines ,Jasper,14,$71K - $85K,-86.92769623,38.42070007
+ Navy/Marines ,Newark,11,$71K - $85K,-75.73059845,39.71509933
+ Navy/Marines ,Boston,5,$56K - $70K,-71.08589935,42.30590057
+ Navy/Marines ,Dallas,2,$40K - $55K,-96.8207016,32.78250122
+ Navy/Marines ,Springfield,6,$56K - $70K,-89.63189697,39.76129913
+ Navy/Marines ,Cambridge,1,$40K - $55K,-81.58429718,40.03929901
+ Navy/Marines ,Mesquite,16,$86K or more,-96.63379669,32.81949997
+ Navy/Marines ,Russellville,17,$86K or more,-93.03610229,35.30350113
+ Navy/Marines ,San Antonio,7,$56K - $70K,-98.45559692,29.48209953
+ Navy/Marines ,Detroit,8,$56K - $70K,-83.1536026,42.2757988
+ Navy/Marines ,Arlington,6,$56K - $70K,-97.08979797,32.65850067
+ Navy/Marines ,Marion,16,$86K or more,-83.14250183,40.59820175
+ Navy/Marines ,Kingsport,20,$86K or more,-82.62000275,36.49069977
+ Navy/Marines ,Salisbury,13,$71K - $85K,-80.42179871,35.62670135
+ Navy/Marines ,Winter Springs,2,$40K - $55K,-81.27629852,28.68120003
+ Navy/Marines ,Columbia,15,$86K or more,-80.92939758,34.08729935
+ Navy/Marines ,Dallas,3,$40K - $55K,-96.76460266,32.75159836
+ Navy/Marines ,Columbus,2,$40K - $55K,-82.93170166,39.95370102
+ Navy/Marines ,North Hollywood,17,$86K or more,-118.3943024,34.20849991
+ Navy/Marines ,Hopkins,11,$71K - $85K,-93.40640259,44.91210175
+ Navy/Marines ,Wichita,16,$86K or more,-97.44049835,37.70140076
+ Navy/Marines ,Brooklyn,10,$71K - $85K,-73.87259674,40.66949844
+ Navy/Marines ,Pahrump,12,$71K - $85K,-116.1500015,36.36380005
+ Navy/Marines ,La Puente,4,$40K - $55K,-117.9328003,34.02809906
+ Navy/Marines ,Williamsburg,1,$40K - $55K,-84.01699829,39.0862999
+ Navy/Marines ,Lawrenceville,11,$71K - $85K,-84.06780243,33.91880035
+ Navy/Marines ,Baltimore,13,$71K - $85K,-76.58799744,39.3667984
+ Navy/Marines ,Newark,11,$71K - $85K,-74.17410278,40.73550034
+ Navy/Marines ,Baltimore,15,$86K or more,-76.68579865,39.3429985
+ Navy/Marines ,Brooklyn,1,$40K - $55K,-73.93969727,40.60089874
+ Navy/Marines ,Alexandria,3,$40K - $55K,-77.08630371,38.82649994
+ Navy/Marines ,Waterville,7,$56K - $70K,-69.55590057,44.56159973
+ Navy/Marines ,Miami,16,$86K or more,-80.18000031,25.95700073
+ Navy/Marines ,Westland,19,$86K or more,-83.3710022,42.33179855
+ Navy/Marines ,La Junta,5,$56K - $70K,-103.5836029,37.84629822
+ Navy/Marines ,Mattoon,20,$86K or more,-88.35959625,39.48849869
+ Navy/Marines ,New York,20,$86K or more,-73.98619843,40.76620102
+ Navy/Marines ,Chicago,10,$71K - $85K,-87.7016983,41.92060089
+ Navy/Marines ,Rose Hill,19,$86K or more,-78.08460236,34.80979919
+ Navy/Marines ,Butler,10,$71K - $85K,-79.93199921,40.91400146
+ Navy/Marines ,Harrison,17,$86K or more,-84.84140015,44.0387001
+ Navy/Marines ,Virginia Beach,13,$71K - $85K,-75.91609955,36.6753006
+ Navy/Marines ,Myrtle Beach,18,$86K or more,-78.90319824,33.69850159
+ Navy/Marines ,Jacksonville,14,$71K - $85K,-81.51499939,30.28660011
+ Navy/Marines ,Philadelphia,17,$86K or more,-75.22810364,40.04909897
+ Navy/Marines ,Geneva,17,$86K or more,-97.60540009,40.49909973
+ Navy/Marines ,Erie,19,$86K or more,-80.05000305,42.10850143
+ Navy/Marines ,Seattle,3,$40K - $55K,-122.3010025,47.71569824
+ Navy/Marines ,Katy,16,$86K or more,-95.8302002,29.73970032
+ Navy/Marines ,Tulsa,15,$86K or more,-95.95780182,36.1916008
+ Navy/Marines ,Greer,20,$86K or more,-82.2661972,34.90110016
+ Navy/Marines ,Wray,2,$40K - $55K,-102.2518997,40.08580017
+ Navy/Marines ,Boston,2,$40K - $55K,-71.1230011,42.36600113
+ Navy/Marines ,Phenix City,9,$56K - $70K,-85.03569794,32.49710083
+ Navy/Marines ,Geneva,14,$71K - $85K,-97.60540009,40.49909973
+ Navy/Marines ,Kent,8,$56K - $70K,-122.2637024,47.39089966
+ Navy/Marines ,Franklinton,17,$86K or more,-78.46880341,36.11460114
+ Navy/Marines ,Newark,8,$56K - $70K,-74.17410278,40.73550034
+ Navy/Marines ,Indianapolis,13,$71K - $85K,-86.0042038,39.72529984
+ Navy/Marines ,Chicago,8,$56K - $70K,-87.65599823,41.81299973
+ Navy/Marines ,Tonawanda,16,$86K or more,-78.84200287,42.9905014
+ Navy/Marines ,Des Moines,16,$86K or more,-93.57050323,41.53110123
+ Navy/Marines ,Glendale,12,$71K - $85K,-112.1856995,33.66690063
+ Navy/Marines ,Osceola,18,$86K or more,-86.07579803,41.6651001
+ Navy/Marines ,Bronx,9,$56K - $70K,-73.8286972,40.87279892
+ Navy/Marines ,New York,11,$71K - $85K,-73.99240112,40.75529861
+ Navy/Marines ,Detroit,2,$40K - $55K,-83.24629974,42.39590073
+ Navy/Marines ,Trenton,19,$86K or more,-77.42140198,35.04489899
+ Navy/Marines ,Big Stone City,2,$40K - $55K,-96.54470062,45.28150177
+ Navy/Marines ,Atlanta,13,$71K - $85K,-84.34909821,33.78839874
+ Navy/Marines ,Metuchen,4,$40K - $55K,-74.36319733,40.54109955
+ Navy/Marines ,Cameron,6,$56K - $70K,-79.17970276,35.28689957
+ Navy/Marines ,,7,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Chicago,7,$56K - $70K,-87.65000153,41.84999847
+ Navy/Marines ,Osceola,10,$71K - $85K,-86.07579803,41.6651001
+ Navy/Marines ,Gary,9,$56K - $70K,-87.32559967,41.5780983
+ Navy/Marines ,Hyattsville,18,$86K or more,-76.88839722,38.92279816
+ Navy/Marines ,Inglewood,3,$40K - $55K,-118.3613968,33.93489838
+ Navy/Marines ,Schenectady,17,$86K or more,-73.99160004,42.88219833
+ Navy/Marines ,Atlanta,18,$86K or more,-84.38800049,33.74900055
+ Navy/Marines ,,17,$86K or more,-96.82170105,32.77870178
+ Navy/Marines ,Grovetown,20,$86K or more,-82.22200012,33.46210098
+ Navy/Marines ,Oklahoma City,18,$86K or more,-97.3973999,35.46049881
+ Navy/Marines ,Coraopolis,2,$40K - $55K,-80.18419647,40.49980164
+ Navy/Marines ,Merrillville,10,$71K - $85K,-87.31639862,41.47930145
+ Navy/Marines ,Faulkton,6,$56K - $70K,-99.15470123,45.07109833
+ Navy/Marines ,Wilmington,19,$86K or more,-77.87020111,34.22050095
+ Navy/Marines ,Sterling Heights,19,$86K or more,-83.06469727,42.5644989
+ Navy/Marines ,Altoona,2,$40K - $55K,-78.4240036,40.55360031
+ Navy/Marines ,Vista,10,$71K - $85K,-117.2468033,33.18199921
+ Navy/Marines ,Mesa,7,$56K - $70K,-111.8226013,33.42229843
+ Navy/Marines ,Harrison,14,$71K - $85K,-84.84140015,44.0387001
+ Navy/Marines ,Bronx,4,$40K - $55K,-73.9056015,40.87670135
+ Navy/Marines ,,7,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Dallas,1,$40K - $55K,-96.80670166,32.78310013
+ Navy/Marines ,Massena,16,$86K or more,-74.94039917,44.95029831
+ Navy/Marines ,East Aurora,19,$86K or more,-78.58010101,42.76800156
+ Navy/Marines ,Chicago,3,$40K - $55K,-87.75659943,41.88019943
+ Navy/Marines ,Boston,10,$71K - $85K,-71.08470154,42.3227005
+ Navy/Marines ,Northbridge,10,$71K - $85K,-71.64309692,42.13579941
+ Navy/Marines ,Leeds,20,$86K or more,-86.55319977,33.51470184
+ Navy/Marines ,Charleston,7,$56K - $70K,-81.6446991,38.48249817
+ Navy/Marines ,Coppell,17,$86K or more,-97.01499939,32.95460129
+ Navy/Marines ,Cabot,17,$86K or more,-92.08580017,34.94609833
+ Navy/Marines ,Tavares,12,$71K - $85K,-81.71520233,28.77599907
+ Navy/Marines ,Detroit,2,$40K - $55K,-82.93959808,42.41189957
+ Navy/Marines ,Indiana,18,$86K or more,-79.145401,40.62239838
+ Navy/Marines ,Boston,17,$86K or more,-71.0161972,42.37310028
+ Navy/Marines ,Cumberland,13,$71K - $85K,-71.43379974,41.95600128
+ Navy/Marines ,Washington,3,$40K - $55K,-76.9720993,38.85900116
+ Navy/Marines ,,20,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Columbus,9,$56K - $70K,-83.08460236,39.96409988
+ Navy/Marines ,Davison,5,$56K - $70K,-83.51920319,43.04430008
+ Navy/Marines ,Laredo,8,$56K - $70K,-99.45010376,27.38069916
+ Navy/Marines ,Atlanta,18,$86K or more,-84.34909821,33.78839874
+ Navy/Marines ,Chapmanville,8,$56K - $70K,-82.06600189,37.94110107
+ Navy/Marines ,Conneaut,11,$71K - $85K,-80.61640167,41.89089966
+ Navy/Marines ,Dallas,16,$86K or more,-96.80670166,32.78310013
+ Navy/Marines ,Louisville,19,$86K or more,-85.623703,38.27059937
+ Navy/Marines ,Whately,7,$56K - $70K,-72.63480377,42.43980026
+ Navy/Marines ,Osceola,15,$86K or more,-86.07579803,41.6651001
+ Navy/Marines ,Greer,14,$71K - $85K,-82.2661972,34.90110016
+ Navy/Marines ,,2,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,New York,18,$86K or more,-74.0059967,40.71429825
+ Navy/Marines ,Houston,13,$71K - $85K,-95.13600159,29.57229996
+ Navy/Marines ,Long Valley,6,$56K - $70K,-74.80599976,40.78430176
+ Navy/Marines ,Woodbridge,17,$86K or more,-77.31970215,38.6780014
+ Navy/Marines ,Elkhart,2,$40K - $55K,-85.96589661,41.667099
+ Navy/Marines ,Whately,2,$40K - $55K,-72.63480377,42.43980026
+ Navy/Marines ,Thibodaux,16,$86K or more,-90.79740143,29.80279922
+ Navy/Marines ,Faulkton,14,$71K - $85K,-99.15470123,45.07109833
+ Navy/Marines ,New York,11,$71K - $85K,-74.0059967,40.71429825
+ Navy/Marines ,Philadelphia,9,$56K - $70K,-75.14710236,40.01240158
+ Navy/Marines ,Mount Holly,12,$71K - $85K,-74.78769684,39.99290085
+ Navy/Marines ,Garden Grove,16,$86K or more,-117.9464035,33.75450134
+ Navy/Marines ,,15,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,New York,14,$71K - $85K,-73.98619843,40.76620102
+ Navy/Marines ,Sioux City,11,$71K - $85K,-96.3986969,42.49250031
+ Navy/Marines ,Plainfield,12,$71K - $85K,-88.20400238,41.6269989
+ Navy/Marines ,Modesto,2,$40K - $55K,-120.9501038,37.67829895
+ Navy/Marines ,,10,$71K - $85K,-97.8219986,37.75099945
+ Navy/Marines ,Franklin,10,$71K - $85K,-83.43070221,35.18330002
+ Navy/Marines ,North Aurora,13,$71K - $85K,-88.34700012,41.8044014
+ Navy/Marines ,Decatur,1,$40K - $55K,-84.2507019,33.68780136
+ Navy/Marines ,Berlin,19,$86K or more,-71.27069855,44.43379974
+ Navy/Marines ,Red Springs,2,$40K - $55K,-79.21260071,34.82730103
+ Navy/Marines ,Cedar Rapids,13,$71K - $85K,-91.66200256,42.0245018
+ Navy/Marines ,Warwick,19,$86K or more,-71.46040344,41.70500183
+ Navy/Marines ,Saint Paul,20,$86K or more,-93.18740082,45.07239914
+ Navy/Marines ,Westchester,14,$71K - $85K,-87.89209747,41.84870148
+ Navy/Marines ,Atlanta,6,$56K - $70K,-84.32420349,33.98289871
+ Navy/Marines ,Saint Marys,14,$71K - $85K,-84.38130188,40.57220078
+ Navy/Marines ,Fort Lauderdale,2,$40K - $55K,-80.22640228,26.11100006
+ Navy/Marines ,Long Beach,17,$86K or more,-118.1444016,33.78239822
+ Navy/Marines ,,19,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Seymour,18,$86K or more,-83.74490356,35.85559845
+ Navy/Marines ,,1,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,Orlando,19,$86K or more,-81.19760132,28.51059914
+ Navy/Marines ,Phoenix,6,$56K - $70K,-112.0309982,33.3730011
+ Navy/Marines ,,11,$71K - $85K,-97.8219986,37.75099945
+ Navy/Marines ,Vista,11,$71K - $85K,-117.2425003,33.20000076
+ Navy/Marines ,Cedar Rapids,20,$86K or more,-91.66200256,42.0245018
+ Navy/Marines ,Barberton,12,$71K - $85K,-81.62799835,41.02320099
+ Navy/Marines ,El Paso,5,$56K - $70K,-106.2968979,31.74349976
+ Navy/Marines ,Miami,6,$56K - $70K,-80.21440125,25.93880081
+ Navy/Marines ,Auburn University,5,$56K - $70K,-85.48699951,32.60200119
+ Navy/Marines ,Pasadena,10,$71K - $85K,-95.20429993,29.71820068
+ Navy/Marines ,Ramsey,5,$56K - $70K,-74.14099884,41.05730057
+ Navy/Marines ,Atlantic City,8,$56K - $70K,-74.43779755,39.36520004
+ Navy/Marines ,Chicago,13,$71K - $85K,-87.65000153,41.84999847
+ Navy/Marines ,Dell Rapids,17,$86K or more,-96.74040222,43.87009811
+ Navy/Marines ,Rudy,5,$56K - $70K,-94.29499817,35.58169937
+ Navy/Marines ,New York,3,$40K - $55K,-74.01319885,40.70819855
+ Navy/Marines ,Seminary,4,$40K - $55K,-89.47530365,31.5401001
+ Navy/Marines ,Fayette,20,$86K or more,-84.29250336,41.65110016
+ Navy/Marines ,,6,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Bolingbrook,16,$86K or more,-88.0789032,41.69889832
+ Navy/Marines ,Mesquite,12,$71K - $85K,-96.62470245,32.76729965
+ Navy/Marines ,Mansfield,4,$40K - $55K,-82.60279846,40.67520142
+ Navy/Marines ,Myrtle Beach,19,$86K or more,-79.02799988,33.63589859
+ Navy/Marines ,Brooklyn,3,$40K - $55K,-73.98549652,40.6617012
+ Navy/Marines ,New Haven,13,$71K - $85K,-72.9240036,41.30939865
+ Navy/Marines ,Bridgewater,2,$40K - $55K,-74.61730194,40.59529877
+ Navy/Marines ,Sycamore,12,$71K - $85K,-88.667099,42.01060104
+ Navy/Marines ,Melbourne,1,$40K - $55K,-80.65280151,28.14900017
+ Navy/Marines ,Boise,11,$71K - $85K,-116.2516022,43.71099854
+ Navy/Marines ,Tucson,1,$40K - $55K,-110.8872986,32.21319962
+ Navy/Marines ,New York,19,$86K or more,-73.97940063,40.75839996
+ Navy/Marines ,Columbus,8,$56K - $70K,-84.92079926,32.54430008
+ Navy/Marines ,Coalinga,20,$86K or more,-120.3906021,36.19660187
+ Navy/Marines ,Whitney,5,$56K - $70K,-97.34590149,31.95219994
+ Navy/Marines ,New Haven,9,$56K - $70K,-72.9240036,41.30939865
+ Navy/Marines ,San Antonio,1,$40K - $55K,-98.56749725,29.4204998
+ Navy/Marines ,,7,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Clarksburg,13,$71K - $85K,-80.36869812,39.28239822
+ Navy/Marines ,Thorpe,2,$40K - $55K,-81.51650238,37.36869812
+ Navy/Marines ,Henderson,2,$40K - $55K,-88.67759705,35.40370178
+ Navy/Marines ,Vancouver,7,$56K - $70K,-122.5755997,45.6867981
+ Navy/Marines ,Odenville,15,$86K or more,-86.4233017,33.66540146
+ Navy/Marines ,Athens,4,$40K - $55K,-95.92269897,32.12229919
+ Navy/Marines ,Hibbing,6,$56K - $70K,-92.96690369,47.40800095
+ Navy/Marines ,El Paso,1,$40K - $55K,-106.3727036,31.74539948
+ Navy/Marines ,Atlanta,4,$40K - $55K,-84.36090088,33.84899902
+ Navy/Marines ,Charlotte,9,$56K - $70K,-80.82620239,35.21569824
+ Navy/Marines ,Holmes,16,$86K or more,-73.66739655,41.53150177
+ Navy/Marines ,,7,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,New York,4,$40K - $55K,-74.01319885,40.70819855
+ Navy/Marines ,Athens,9,$56K - $70K,-95.92269897,32.12229919
+ Navy/Marines ,Aberdeen,13,$71K - $85K,-76.19660187,39.49840164
+ Navy/Marines ,Chelsea,11,$71K - $85K,-71.03160095,42.39970016
+ Navy/Marines ,Vancouver,16,$86K or more,-122.4714966,45.67409897
+ Navy/Marines ,Haines City,9,$56K - $70K,-81.5687027,28.05730057
+ Navy/Marines ,Melvindale,14,$71K - $85K,-83.17949677,42.28120041
+ Navy/Marines ,Coppell,13,$71K - $85K,-97.01499939,32.95460129
+ Navy/Marines ,Edison,14,$71K - $85K,-74.39689636,40.5182991
+ Navy/Marines ,Medway,18,$86K or more,-71.42680359,42.1556015
+ Navy/Marines ,Allen,20,$86K or more,-96.69380188,33.11220169
+ Navy/Marines ,,4,$40K - $55K,-84.38800049,33.74900055
+ Navy/Marines ,Bangor,4,$40K - $55K,-68.84020233,44.86349869
+ Navy/Marines ,,16,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Orlando,8,$56K - $70K,-81.39389801,28.46109962
+ Navy/Marines ,Leominster,20,$86K or more,-71.76570129,42.5243988
+ Navy/Marines ,New York,18,$86K or more,-74.01319885,40.70819855
+ Navy/Marines ,,1,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,Cumberland,1,$40K - $55K,-78.76650238,39.63510132
+ Navy/Marines ,Williamston,10,$71K - $85K,-84.271698,42.68159866
+ Navy/Marines ,Rancho Cucamonga,5,$56K - $70K,-117.5118027,34.14870071
+ Navy/Marines ,Rushville,5,$56K - $70K,-90.56549835,40.12409973
+ Navy/Marines ,,13,$71K - $85K,-97.8219986,37.75099945
+ Navy/Marines ,Antioch,20,$86K or more,-86.6371994,36.03710175
+ Navy/Marines ,Bronx,13,$71K - $85K,-73.87159729,40.87599945
+ Navy/Marines ,Atlanta,17,$86K or more,-84.34909821,33.78839874
+ Navy/Marines ,Asheboro,16,$86K or more,-79.76899719,35.73820114
+ Navy/Marines ,El Paso,5,$56K - $70K,-106.3727036,31.74539948
+ Navy/Marines ,Pekin,7,$56K - $70K,-89.62519836,40.54940033
+ Navy/Marines ,Bloomfield Hills,1,$40K - $55K,-83.24549866,42.58359909
+ Navy/Marines ,New York,7,$56K - $70K,-74.01319885,40.70819855
+ Navy/Marines ,Cadillac,11,$71K - $85K,-85.53479767,44.25640106
+ Navy/Marines ,Brockton,18,$86K or more,-70.99990082,42.08580017
+ Navy/Marines ,South Saint Paul,14,$71K - $85K,-93.04000092,44.88389969
+ Navy/Marines ,Wichita,20,$86K or more,-97.22299957,37.67200089
+ Navy/Marines ,Somerset,13,$71K - $85K,-74.52449799,40.49810028
+ Navy/Marines ,Jay,13,$71K - $85K,-94.76989746,36.43619919
+ Navy/Marines ,Thorpe,19,$86K or more,-81.51650238,37.36869812
+ Navy/Marines ,Russellville,19,$86K or more,-87.86640167,34.52959824
+ Navy/Marines ,North Richland Hills,12,$71K - $85K,-97.22889709,32.83430099
+ Navy/Marines ,Morris,1,$40K - $55K,-88.44550323,41.39260101
+ Navy/Marines ,,16,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Jonesboro,14,$71K - $85K,-90.70429993,35.84230042
+ Navy/Marines ,Russellville,8,$56K - $70K,-93.03610229,35.30350113
+ Navy/Marines ,Irving,3,$40K - $55K,-96.94309998,32.7881012
+ Navy/Marines ,Atlanta,16,$86K or more,-84.38800049,33.74900055
+ Navy/Marines ,Alpena,6,$56K - $70K,-83.45510101,45.06570053
+ Navy/Marines ,,18,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,,16,$86K or more,-86.80249786,33.52069855
+ Navy/Marines ,Oakland,8,$56K - $70K,-122.2707977,37.8044014
+ Navy/Marines ,Garland,14,$71K - $85K,-96.62359619,32.957901
+ Navy/Marines ,San Antonio,12,$71K - $85K,-98.52680206,29.42889977
+ Navy/Marines ,South Paris,8,$56K - $70K,-70.4905014,44.24380112
+ Navy/Marines ,Atlanta,15,$86K or more,-84.31510162,33.75130081
+ Navy/Marines ,Westport,9,$56K - $70K,-71.06759644,41.60770035
+ Navy/Marines ,Grand Island,14,$71K - $85K,-98.43569946,40.91659927
+ Navy/Marines ,Philadelphia,19,$86K or more,-75.14710236,40.01240158
+ Navy/Marines ,Creswell,14,$71K - $85K,-123.0274963,43.90660095
+ Navy/Marines ,Eagle Pass,4,$40K - $55K,-100.4521027,28.7364006
+ Navy/Marines ,Pickerington,19,$86K or more,-82.74590302,39.89799881
+ Navy/Marines ,Savage,5,$56K - $70K,-93.36360168,44.75780106
+ Navy/Marines ,Newark,2,$40K - $55K,-75.73059845,39.71509933
+ Navy/Marines ,Commerce,6,$56K - $70K,-83.49269867,34.21979904
+ Navy/Marines ,Victorville,11,$71K - $85K,-117.3339996,34.57220078
+ Navy/Marines ,Cadillac,7,$56K - $70K,-85.53479767,44.25640106
+ Navy/Marines ,Hayward,3,$40K - $55K,-122.0883026,37.67449951
+ Navy/Marines ,,15,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Charlestown,15,$86K or more,-71.6631012,41.39599991
+ Navy/Marines ,Woodbridge,17,$86K or more,-77.26650238,38.6257019
+ Navy/Marines ,Haleyville,3,$40K - $55K,-87.58760071,34.23709869
+ Navy/Marines ,Menifee,15,$86K or more,-117.1822968,33.65179825
+ Navy/Marines ,Eunice,4,$40K - $55K,-92.42199707,30.47500038
+ Navy/Marines ,Norcross,12,$71K - $85K,-84.23040009,33.9681015
+ Navy/Marines ,Dallas,19,$86K or more,-96.73660278,32.91429901
+ Navy/Marines ,Alexandria,11,$71K - $85K,-77.04530334,38.81560135
+ Navy/Marines ,Schenectady,3,$40K - $55K,-73.99160004,42.88219833
+ Navy/Marines ,Buffalo,7,$56K - $70K,-78.87789917,42.91970062
+ Navy/Marines ,Stoughton,8,$56K - $70K,-71.103302,42.11859894
+ Navy/Marines ,Sebewaing,17,$86K or more,-83.3934021,43.73960114
+ Navy/Marines ,Big Stone Gap,5,$56K - $70K,-82.76100159,36.83990097
+ Navy/Marines ,Tampa,19,$86K or more,-82.35289764,28.12030029
+ Navy/Marines ,Miami,15,$86K or more,-80.45819855,25.5583992
+ Navy/Marines ,,5,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Berlin,18,$86K or more,-74.92559814,39.7580986
+ Navy/Marines ,Dallas,5,$56K - $70K,-96.83969879,32.65829849
+ Navy/Marines ,,19,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Alexandria,3,$40K - $55K,-77.0951004,38.75910187
+ Navy/Marines ,Phoenix,8,$56K - $70K,-112.1334,33.62990189
+ Navy/Marines ,Sacramento,19,$86K or more,-121.444397,38.37739944
+ Navy/Marines ,Fort Worth,16,$86K or more,-97.28800201,32.85240173
+ Navy/Marines ,San Diego,18,$86K or more,-117.1978989,32.95700073
+ Navy/Marines ,North San Juan,14,$71K - $85K,-120.9922028,39.42829895
+ Navy/Marines ,Washington,15,$86K or more,-76.978302,38.90570068
+ Navy/Marines ,Saint Petersburg,6,$56K - $70K,-82.63179779,27.85630035
+ Navy/Marines ,Knightdale,3,$40K - $55K,-78.48110199,35.79119873
+ Navy/Marines ,Los Angeles,19,$86K or more,-118.3177032,34.0284996
+ Navy/Marines ,Kingsport,20,$86K or more,-82.62000275,36.49069977
+ Navy/Marines ,Fayetteville,15,$86K or more,-79.01470184,35.05699921
+ Navy/Marines ,Anaheim,20,$86K or more,-117.9105988,33.82630157
+ Navy/Marines ,Minneapolis,9,$56K - $70K,-93.21659851,44.97589874
+ Navy/Marines ,Alice,9,$56K - $70K,-98.08439636,27.70389938
+ Navy/Marines ,Oakland,18,$86K or more,-122.2707977,37.8044014
+ Navy/Marines ,Greenville,19,$86K or more,-84.63880157,40.08369827
+ Navy/Marines ,Covington,8,$56K - $70K,-87.36450195,40.10749817
+ Navy/Marines ,Mankato,13,$71K - $85K,-94,44.13079834
+ Navy/Marines ,,1,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,Chicago,16,$86K or more,-87.67310333,41.84930038
+ Navy/Marines ,,20,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Manlius,4,$40K - $55K,-75.96029663,42.96239853
+ Navy/Marines ,Hayward,6,$56K - $70K,-122.0441971,37.6393013
+ Navy/Marines ,Bronx,11,$71K - $85K,-73.90699768,40.83089828
+ Navy/Marines ,Bensalem,16,$86K or more,-74.9414978,40.10300064
+ Navy/Marines ,Jacksonville,16,$86K or more,-81.69719696,30.36240005
+ Navy/Marines ,San Diego,5,$56K - $70K,-117.129303,32.7663002
+ Navy/Marines ,,4,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,Nahunta,6,$56K - $70K,-81.97100067,31.15839958
+ Navy/Marines ,Croswell,20,$86K or more,-82.6588974,43.26399994
+ Navy/Marines ,Lexington,1,$40K - $55K,-81.2589035,33.97919846
+ Navy/Marines ,San Pedro,19,$86K or more,-118.2922974,33.7358017
+ Navy/Marines ,East Orange,15,$86K or more,-74.20680237,40.77119827
+ Navy/Marines ,Rosedale,11,$71K - $85K,-73.77890015,40.65069962
+ Navy/Marines ,Quincy,14,$71K - $85K,-71.02780151,42.28559875
+ Navy/Marines ,Akron,4,$40K - $55K,-81.48020172,41.03990173
+ Navy/Marines ,Orlando,19,$86K or more,-81.44290161,28.51429939
+ Navy/Marines ,Dassel,11,$71K - $85K,-94.32800293,45.0931015
+ Navy/Marines ,Sevierville,10,$71K - $85K,-83.41249847,35.85039902
+ Navy/Marines ,New York,1,$40K - $55K,-73.98020172,40.72520065
+ Navy/Marines ,Orlando,1,$40K - $55K,-81.49279785,28.58979988
+ Navy/Marines ,Brooklyn,16,$86K or more,-73.91500092,40.66429901
+ Navy/Marines ,Palm Bay,2,$40K - $55K,-80.6115036,28.03809929
+ Navy/Marines ,Grasonville,15,$86K or more,-76.20809937,38.93659973
+ Navy/Marines ,New York,8,$56K - $70K,-74.01319885,40.70819855
+ Navy/Marines ,Livonia,16,$86K or more,-83.37319946,42.39709854
+ Navy/Marines ,Friendswood,9,$56K - $70K,-95.19029999,29.51420021
+ Navy/Marines ,Queensbury,9,$56K - $70K,-73.68979645,43.35229874
+ Navy/Marines ,Atlanta,2,$40K - $55K,-84.57849884,33.72710037
+ Navy/Marines ,Kansas City,14,$71K - $85K,-94.46459961,39.270401
+ Navy/Marines ,Marion,8,$56K - $70K,-85.62640381,40.50989914
+ Navy/Marines ,Clayton,8,$56K - $70K,-78.43710327,35.62630081
+ Navy/Marines ,Junction City,20,$86K or more,-89.72619629,44.59809875
+ Navy/Marines ,Raleigh,16,$86K or more,-78.72389984,35.74629974
+ Navy/Marines ,,5,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Saint Petersburg,14,$71K - $85K,-82.60700226,27.7968998
+ Navy/Marines ,,6,$56K - $70K,-97.8219986,37.75099945
+ Navy/Marines ,Portland,5,$56K - $70K,-84.97650146,40.41650009
+ Navy/Marines ,Elk River,18,$86K or more,-93.56770325,45.33430099
+ Navy/Marines ,New York,9,$56K - $70K,-74.01319885,40.70819855
+ Navy/Marines ,Asheville,12,$71K - $85K,-82.52249908,35.52830124
+ Navy/Marines ,Morris,2,$40K - $55K,-88.44550323,41.39260101
+ Navy/Marines ,Knightdale,2,$40K - $55K,-78.48110199,35.79119873
+ Navy/Marines ,Cordova,19,$86K or more,-89.77259827,35.13639832
+ Navy/Marines ,Fayetteville,16,$86K or more,-93.97949982,35.95429993
+ Navy/Marines ,Mesquite,2,$40K - $55K,-96.62470245,32.76729965
+ Navy/Marines ,Middletown,15,$86K or more,-84.39830017,39.51509857
+ Navy/Marines ,Bangor,18,$86K or more,-68.84020233,44.86349869
+ Navy/Marines ,Pittsburgh,6,$56K - $70K,-79.92939758,40.4530983
+ Navy/Marines ,Chicago,14,$71K - $85K,-87.60540009,41.74440002
+ Navy/Marines ,Ware,10,$71K - $85K,-72.27570343,42.29909897
+ Navy/Marines ,Washington,1,$40K - $55K,-77.05960083,38.93450165
+ Navy/Marines ,Melbourne,16,$86K or more,-80.65280151,28.14900017
+ Navy/Marines ,Dunnellon,20,$86K or more,-82.35289764,29.10140038
+ Navy/Marines ,,20,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Festus,6,$56K - $70K,-90.39759827,38.11769867
+ Navy/Marines ,Boynton Beach,11,$71K - $85K,-80.11029816,26.52809906
+ Navy/Marines ,Sioux Falls,19,$86K or more,-96.70030212,43.54999924
+ Navy/Marines ,Somerville,15,$86K or more,-71.11930084,42.40190125
+ Navy/Marines ,Greeley,19,$86K or more,-104.8002014,40.39960098
+ Navy/Marines ,Milford,8,$56K - $70K,-83.60990143,42.56259918
+ Navy/Marines ,Perrysburg,4,$40K - $55K,-83.56559753,41.52949905
+ Navy/Marines ,Seattle,20,$86K or more,-122.2967987,47.63190079
+ Navy/Marines ,,2,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,Omaha,19,$86K or more,-96.1710968,41.29169846
+ Navy/Marines ,Bangor,10,$71K - $85K,-68.84020233,44.86349869
+ Navy/Marines ,Miami,11,$71K - $85K,-80.23919678,25.89039993
+ Navy/Marines ,New York,12,$71K - $85K,-74.01319885,40.70819855
+ Navy/Marines ,Pikeville,10,$71K - $85K,-82.49559784,37.48789978
+ Navy/Marines ,Cypress,11,$71K - $85K,-95.65499878,29.9878006
+ Navy/Marines ,Parksley,20,$86K or more,-75.63349915,37.77170181
+ Navy/Marines ,Rockford,14,$71K - $85K,-85.49430084,43.11880112
+ Navy/Marines ,Santa Cruz,10,$71K - $85K,-122.1020966,37.0447998
+ Navy/Marines ,Brooklyn,14,$71K - $85K,-73.93969727,40.60089874
+ Navy/Marines ,La Grande,7,$56K - $70K,-118.2026978,45.32300186
+ Navy/Marines ,Staffordsville,20,$86K or more,-82.88639832,37.83420181
+ Navy/Marines ,,17,$86K or more,-97.8219986,37.75099945
+ Navy/Marines ,Peoria,11,$71K - $85K,-112.2481995,33.76940155
+ Navy/Marines ,Birmingham,7,$56K - $70K,-86.80660248,33.46670151
+ Navy/Marines ,New York,11,$71K - $85K,-74.01319885,40.70819855
+ Navy/Marines ,Spencer,3,$40K - $55K,-82.10739899,41.09970093
+ Navy/Marines ,New York,4,$40K - $55K,-74.01319885,40.70819855
+ Navy/Marines ,,2,$40K - $55K,-97.8219986,37.75099945
+ Navy/Marines ,,17,$86K or more,-84.38800049,33.74900055
+ Navy/Marines ,Toronto,10,$71K - $85K,-95.97029877,37.78580093
+ Navy/Marines ,West Springfield,3,$40K - $55K,-72.62039948,42.10699844
+ Navy/Marines ,Bangor,11,$71K - $85K,-68.84020233,44.86349869
+ Navy/Marines ,Newport News,20,$86K or more,-76.46970367,37.08340073
+ Navy/Marines ,Washington,7,$56K - $70K,-77.01999664,38.95199966
+ Navy/Marines ,Phoenix,8,$56K - $70K,-112.1872025,33.2765007
+ Navy/Marines ,La Mesa,2,$40K - $55K,-117.0178986,32.78379822
+ Navy/Marines ,Palmetto,2,$40K - $55K,-82.50509644,27.59309959
+ Navy/Marines ,Orange,4,$40K - $55K,-93.7365036,30.09300041
+ Navy/Marines ,Winchester,13,$71K - $85K,-86.16149902,35.19110107
+ Navy/Marines ,Fairfield,14,$71K - $85K,-73.24459839,41.19620132
+ Navy/Marines ,Nokomis,10,$71K - $85K,-89.31739807,39.29759979
+ Navy/Marines ,San Antonio,6,$56K - $70K,-98.49359894,29.42410088
+ Navy/Marines ,Jenison,19,$86K or more,-85.8463974,42.91559982
+ Navy/Marines ,Hamilton,19,$86K or more,-84.6486969,39.42850113
+ Navy/Marines ,Kent,15,$86K or more,-122.1957016,47.40840149
+ Navy/Marines ,Gettysburg,16,$86K or more,-77.22910309,39.84180069
+ Navy/Marines ,Eugene,18,$86K or more,-123.0824966,44.06900024
+ Navy/Marines ,Killeen,5,$56K - $70K,-97.7417984,31.21640015
+ Navy/Marines ,Ogden,5,$56K - $70K,-111.9738007,41.22299957
+ Navy/Marines ,New Orleans,15,$86K or more,-90.20570374,29.95050049
+ Navy/Marines ,Hillsborough,2,$40K - $55K,-74.68659973,40.49810028
+ Navy/Marines ,Houston,12,$71K - $85K,-95.61299896,29.75099945
+ Navy/Marines ,Philadelphia,12,$71K - $85K,-75.18470001,39.93889999
+ Navy/Marines ,Hayward,20,$86K or more,-122.0441971,37.6393013
+ Navy/Marines ,Los Angeles,1,$40K - $55K,-118.289299,34.12810135
+ Navy/Marines ,Stockton,2,$40K - $55K,-121.3249969,38.00019836
+ Navy/Marines ,,14,$71K - $85K,-84.38800049,33.74900055
+ Navy/Marines ,Mansfield,19,$86K or more,-82.4571991,40.77880096
+ Navy/Marines ,Bangor,9,$56K - $70K,-68.84020233,44.86349869
+ Navy/Marines ,Evanston,2,$40K - $55K,-87.68779755,42.03020096
+ Navy/Marines ,Bangor,3,$40K - $55K,-68.84020233,44.86349869
+ Navy/Marines ,Van Nuys,6,$56K - $70K,-118.4924011,34.19210052
+ Navy/Marines ,,10,$71K - $85K,-84.38800049,33.74900055
+ Navy/Marines ,Charleston,12,$71K - $85K,-81.55470276,38.29679871
+ Navy/Marines ,Jackson,6,$56K - $70K,-90.11180115,32.36539841
+ Navy/Marines ,Inkster,18,$86K or more,-83.31469727,42.29330063
+ Navy/Marines ,Canton,3,$40K - $55K,-84.49210358,34.25770187
+ Navy/Marines ,Chelsea,4,$40K - $55K,-71.03160095,42.39970016
+ Navy/Marines ,Bellmore,9,$56K - $70K,-73.53639984,40.67259979
+ Navy/Marines ,Valdese,3,$40K - $55K,-81.58740234,35.73479843
+ Navy/Marines ,San Angelo,3,$40K - $55K,-100.560997,31.54680061
+ Navy/Marines ,San Jose,2,$40K - $55K,-121.7780991,37.33480072
+ Navy/Marines ,Naperville,10,$71K - $85K,-88.13410187,41.80319977
+ Navy/Marines ,Pinetown,11,$71K - $85K,-76.73819733,35.6026001
+ Navy/Marines ,Thibodaux,1,$40K - $55K,-90.79740143,29.80279922
